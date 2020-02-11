@@ -1,0 +1,50 @@
+﻿Build started 12/4/2014 11:29:37 PM.
+     1>Project "C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\msvc8\zziplib.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /I../msvc/zlib/include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0700 /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /errorReport:prompt ..\zzip\dir.c ..\zzip\err.c ..\zzip\fetch.c ..\zzip\file.c ..\zzip\info.c ..\zzip\plugin.c ..\zzip\stat.c ..\zzip\zip.c
+         dir.c
+     1>C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\zzip/__dirent.h(239): warning C4244: '=' : conversion from 'intptr_t' to 'long', possible loss of data
+     1>..\zzip\dir.c(283): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(245) : see declaration of 'strdup'
+         err.c
+         fetch.c
+         file.c
+     1>..\zzip\file.c(412): warning C4267: '=' : conversion from 'size_t' to 'uInt', possible loss of data
+     1>..\zzip\file.c(452): warning C4267: 'return' : conversion from 'size_t' to 'zzip_ssize_t', possible loss of data
+     1>..\zzip\file.c(808): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\zzip\file.c(855): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(245) : see declaration of 'strdup'
+     1>..\zzip\file.c(1023): warning C4267: '=' : conversion from 'size_t' to 'zzip_off_t', possible loss of data
+     1>..\zzip\file.c(1127): warning C4267: 'return' : conversion from 'size_t' to 'zzip_off_t', possible loss of data
+         info.c
+         plugin.c
+     1>..\zzip\plugin.c(54): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(336) : see declaration of 'open'
+     1>..\zzip\plugin.c(54): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(326) : see declaration of 'close'
+     1>..\zzip\plugin.c(54): warning C4028: formal parameter 3 different from declaration
+         stat.c
+     1>..\zzip\stat.c(101): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\zzip\stat.c(102): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+         zip.c
+     1>..\zzip\zip.c(327): warning C4244: '=' : conversion from '__int64' to 'zzip_off_t', possible loss of data
+     1>..\zzip\zip.c(460): warning C4244: 'function' : conversion from 'zzip_off64_t' to 'zzip_off_t', possible loss of data
+     1>..\zzip\zip.c(504): warning C4244: '=' : conversion from 'uint16_t' to 'uint8_t', possible loss of data
+         Generating Code...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1361,5): warning MSB8012: TargetPath(C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\msvc8\x64\Debug\zziplib.lib) does not match the Library's OutputFile property value (C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\msvc8\zziplib-Debug.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetName(zziplib) does not match the Library's OutputFile property value (zziplib-Debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"zziplib-Debug.lib" zlibwapi.lib /LIBPATH:"../../zlib-1.2.8-vc12-x64-release-debug/contrib/vstudio/vc11/x64/ZlibDllDebug" /NOLOGO /MACHINE:X64 x64\Debug\dir.obj
+         x64\Debug\err.obj
+         x64\Debug\fetch.obj
+         x64\Debug\file.obj
+         x64\Debug\info.obj
+         x64\Debug\plugin.obj
+         x64\Debug\stat.obj
+         x64\Debug\zip.obj
+         zziplib.vcxproj -> C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\msvc8\x64\Debug\zziplib.lib
+     1>Done Building Project "C:\Users\OSRF\code\gz\zziplib-0.13.62-vc12-x64-release-debug\msvc8\zziplib.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
