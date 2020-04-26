@@ -1,0 +1,5319 @@
+{
+    "cocktail_list": [
+        {
+            "cocktail name": "Mojito",
+            "ingredients": [
+                "2-3 oz Light rum",
+                "Juice of 1 Lime",
+                "2 tsp Sugar",
+                "2-4 Mint",
+                "Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Old Fashioned",
+            "ingredients": [
+                "4.5 cL Bourbon",
+                "2 dashes Angostura bitters",
+                "1 cube Sugar",
+                "dash Water"
+            ]
+        },
+        {
+            "cocktail name": "Long Island Tea",
+            "ingredients": [
+                "1/2 oz Vodka",
+                "1/2 oz Light rum",
+                "1/2 oz Gin",
+                "1/2 oz Tequila",
+                "Juice of 1/2 Lemon",
+                "1 splash Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Negroni",
+            "ingredients": [
+                "1 oz Gin",
+                "1 oz Campari",
+                "1 oz Sweet Vermouth"
+            ]
+        },
+        {
+            "cocktail name": "Whiskey Sour",
+            "ingredients": [
+                "2 oz Blended whiskey",
+                "Juice of 1/2 Lemon",
+                "1/2 tsp Powdered sugar",
+                "1 Cherry",
+                "1/2 slice Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Dry Martini",
+            "ingredients": [
+                "1 2/3 oz Gin",
+                "1/3 oz Dry Vermouth",
+                "1 Olive"
+            ]
+        },
+        {
+            "cocktail name": "Daiquiri",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "Juice of 1/2 Lime",
+                "1 tsp Powdered sugar"
+            ]
+        },
+        {
+            "cocktail name": "Margarita",
+            "ingredients": [
+                "1 1/2 oz Tequila",
+                "1/2 oz Triple sec",
+                "1 oz Lime juice",
+                "Salt"
+            ]
+        },
+        {
+            "cocktail name": "Manhattan",
+            "ingredients": [
+                "3/4 oz Sweet Vermouth",
+                "2 1/2 oz Blended Bourbon",
+                "dash Angostura bitters",
+                "2 or 3 Ice",
+                "1 Maraschino cherry",
+                "1 twist of Orange peel"
+            ]
+        },
+        {
+            "cocktail name": "Moscow Mule",
+            "ingredients": [
+                "2 oz Vodka",
+                "2 oz Lime juice",
+                "8 oz Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "After Dinner Cocktail",
+            "ingredients": [
+                "1 oz Apricot brandy",
+                "1 oz Triple sec",
+                "Juice of 1 Lime",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "After Supper Cocktail",
+            "ingredients": [
+                "1 oz Triple sec",
+                "1 oz Apricot brandy",
+                "1/2 tsp Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Alabama Slammer",
+            "ingredients": [
+                "1 oz Southern Comfort",
+                "1 oz Amaretto",
+                "1/2 oz Sloe gin",
+                "1 dash Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Alaska Cocktail",
+            "ingredients": [
+                "2 dashes Orange bitters",
+                "1 1/2 oz Gin",
+                "3/4 oz Yellow Chartreuse",
+                "Twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Alexander",
+            "ingredients": [
+                "1/2 oz Gin",
+                "1/2 oz white Creme de Cacao",
+                "2 oz Light cream",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Brandy Alexander",
+            "ingredients": [
+                "1 oz Brandy",
+                "1 oz white Creme de Cacao",
+                "1 oz Light cream",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Alfie Cocktail",
+            "ingredients": [
+                "1 1/2 oz Lemon vodka",
+                "1 dash Triple sec",
+                "1 tblsp Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Algonquin",
+            "ingredients": [
+                "1 1/2 oz Blended whiskey",
+                "1 oz Dry Vermouth",
+                "1 oz Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Allegheny",
+            "ingredients": [
+                "1 oz Dry Vermouth",
+                "1 oz Bourbon",
+                "1 1/2 tsp Blackberry brandy",
+                "1 1/2 tsp Lemon juice",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Allies Cocktail",
+            "ingredients": [
+                "1 oz Dry Vermouth",
+                "1 oz Gin",
+                "1/2 tsp Kummel"
+            ]
+        },
+        {
+            "cocktail name": "Almeria",
+            "ingredients": [
+                "2 oz Dark rum",
+                "1 oz Kahlua",
+                "1 Egg white"
+            ]
+        },
+        {
+            "cocktail name": "Almond Joy",
+            "ingredients": [
+                "1/2 oz Amaretto",
+                "1/2 oz white Creme de Cacao",
+                "2 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto And Cream",
+            "ingredients": [
+                "1 1/2 oz Amaretto",
+                "1 1/2 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Mist",
+            "ingredients": [
+                "1 1/2 oz Amaretto",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Rose",
+            "ingredients": [
+                "1 1/2 oz Amaretto",
+                "1/2 oz Lime juice",
+                "Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Stinger",
+            "ingredients": [
+                "1 1/2 oz Amaretto",
+                "3/4 oz White Creme de Menthe"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Tea",
+            "ingredients": [
+                "6 oz hot Tea",
+                "2 oz Amaretto",
+                "Chilled Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "Angel Face",
+            "ingredients": [
+                "1/2 oz Apricot brandy",
+                "1/2 oz Apple brandy",
+                "1 oz Gin"
+            ]
+        },
+        {
+            "cocktail name": "Applecar",
+            "ingredients": [
+                "1 oz Applejack",
+                "1 oz Triple sec",
+                "1 oz Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Apricot Lady",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 oz Apricot brandy",
+                "1 tsp Triple sec",
+                "1/2 oz Lemon juice",
+                "1 Egg white",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Archbishop",
+            "ingredients": [
+                "2 oz Gin",
+                "1 oz Green Ginger Wine",
+                "1 tsp Benedictine",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Arise My Love",
+            "ingredients": [
+                "Chilled Champagne",
+                "1 tsp Green Creme de Menthe"
+            ]
+        },
+        {
+            "cocktail name": "Arthur Tompkins",
+            "ingredients": [
+                "2 oz Gin",
+                "1/2 oz Grand Marnier",
+                "2 tsp Lemon juice",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Artillery",
+            "ingredients": [
+                "1 1/2 tsp Sweet Vermouth",
+                "1 1/2 oz Gin",
+                "2 dashes Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Balmoral",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "1/2 oz Sweet Vermouth",
+                "1/2 oz Dry Vermouth",
+                "2 dashes Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Banana Daiquiri",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 tblsp Triple sec",
+                "1 Banana",
+                "1 1/2 oz Lime juice",
+                "1 tsp Sugar",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Bermuda Highball",
+            "ingredients": [
+                "3/4 oz Brandy",
+                "3/4 oz Gin",
+                "3/4 oz Dry Vermouth",
+                "Carbonated water",
+                "Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Black Russian",
+            "ingredients": [
+                "3/4 oz Coffee liqueur",
+                "1 1/2 oz Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Blackthorn",
+            "ingredients": [
+                "1 oz Sweet Vermouth",
+                "1 1/2 oz Sloe gin",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Bloody Maria",
+            "ingredients": [
+                "1 oz Tequila",
+                "2 oz Tomato juice",
+                "1 dash Lemon juice",
+                "1 dash Tabasco sauce",
+                "1 dash Celery salt",
+                "1 slice Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Bloody Mary",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "3 oz Tomato juice",
+                "1 dash Lemon juice",
+                "1/2 tsp Worcestershire sauce",
+                "2-3 drops Tabasco sauce",
+                "1 wedge Lime"
+            ]
+        },
+        {
+            "cocktail name": "Blue Lagoon",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Blue Curacao",
+                "Lemonade",
+                "Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Blue Margarita",
+            "ingredients": [
+                "1 1/2 oz Tequila",
+                "1 oz Blue Curacao",
+                "1 oz Lime juice",
+                "Coarse Salt"
+            ]
+        },
+        {
+            "cocktail name": "Blue Mountain",
+            "ingredients": [
+                "1 1/2 oz A\u00f1ejo rum",
+                "1/2 oz Tia maria",
+                "1/2 oz Vodka",
+                "1 oz Orange juice",
+                "1 tsp Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Bluebird",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1/2 oz Triple sec",
+                "1/2 oz Blue Curacao",
+                "2 dashes Bitters",
+                "1 Maraschino cherry",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Bobby Burns Cocktail",
+            "ingredients": [
+                "1 1/2 oz Sweet Vermouth",
+                "1 1/2 oz Scotch",
+                "1 1/4 tsp Benedictine",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Boomerang",
+            "ingredients": [
+                "2 oz Gin",
+                "1/2 oz Dry Vermouth",
+                "2 dashes Bitters",
+                "1/2 tsp Maraschino liqueur",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Boston Sidecar",
+            "ingredients": [
+                "3/4 oz Light rum",
+                "3/4 oz Brandy",
+                "3/4 oz Triple sec",
+                "Juice of 1/2 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Boston Sour",
+            "ingredients": [
+                "2 oz Blended whiskey",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 Egg white",
+                "1 slice Lemon",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Classic Old-Fashioned",
+            "ingredients": [
+                "3 dashes Bitters",
+                "1 tsp Water",
+                "1 Sugar",
+                "3 oz Bourbon",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Bourbon Sling",
+            "ingredients": [
+                "1 tsp superfine Sugar",
+                "2 tsp Water",
+                "1 oz Lemon juice",
+                "2 oz Bourbon",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Bourbon Sour",
+            "ingredients": [
+                "2 oz Bourbon",
+                "1 oz Lemon juice",
+                "1/2 tsp superfine Sugar",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Boxcar",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 oz Triple sec",
+                "1 tsp Lemon juice",
+                "1/2 tsp Grenadine",
+                "1 Egg white"
+            ]
+        },
+        {
+            "cocktail name": "Brandy Cobbler",
+            "ingredients": [
+                "1 tsp superfine Sugar",
+                "3 oz Club soda",
+                "1 Lemon",
+                "2 oz Brandy",
+                "1 Maraschino cherry",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Brandy Flip",
+            "ingredients": [
+                "2 oz Brandy",
+                "1 whole Egg",
+                "1 tsp superfine Sugar",
+                "1/2 oz Light cream",
+                "1/8 tsp grated Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Brandy Sour",
+            "ingredients": [
+                "2 oz Brandy",
+                "Juice of 1/2 Lemon",
+                "1/2 tsp Powdered sugar",
+                "1/2 slice Lemon",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Caipirinha",
+            "ingredients": [
+                "2 tsp Sugar",
+                "1 Lime",
+                "2 1/2 oz Cachaca"
+            ]
+        },
+        {
+            "cocktail name": "California Lemonade",
+            "ingredients": [
+                "2 oz Blended whiskey",
+                "Juice of 1 Lemon",
+                "Juice of 1 Lime",
+                "1 tblsp Powdered sugar",
+                "1/4 tsp Grenadine",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Casa Blanca",
+            "ingredients": [
+                "2 oz Light rum",
+                "1 1/2 tsp Triple sec",
+                "1 1/2 tsp Lime juice",
+                "1 1/2 tsp Maraschino liqueur"
+            ]
+        },
+        {
+            "cocktail name": "Casino Royale",
+            "ingredients": [
+                "2 oz Gin",
+                "1/2 oz Lemon juice",
+                "1 tsp Maraschino liqueur",
+                "1 dash Orange bitters",
+                "1 Egg yolk"
+            ]
+        },
+        {
+            "cocktail name": "Champagne Cocktail",
+            "ingredients": [
+                "Chilled Champagne",
+                "1 piece Sugar",
+                "2 dashes Bitters",
+                "1 twist of Lemon peel",
+                "1 dash Cognac"
+            ]
+        },
+        {
+            "cocktail name": "Cherry Rum",
+            "ingredients": [
+                "1 1/4 oz Light rum",
+                "1 1/2 tsp Cherry brandy",
+                "1 tblsp Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Chicago Fizz",
+            "ingredients": [
+                "1 oz Light rum",
+                "1 oz Port",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 Egg white",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Chocolate Black Russian",
+            "ingredients": [
+                "1 oz Kahlua",
+                "1/2 oz Vodka",
+                "5 oz Chocolate ice-cream"
+            ]
+        },
+        {
+            "cocktail name": "City Slicker",
+            "ingredients": [
+                "2 oz Brandy",
+                "1/2 oz Triple sec",
+                "1 tblsp Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Clove Cocktail",
+            "ingredients": [
+                "1 oz Sweet Vermouth",
+                "1/2 oz Sloe gin",
+                "1/2 oz Muscatel Wine"
+            ]
+        },
+        {
+            "cocktail name": "Cuba Libre",
+            "ingredients": [
+                "2 oz Light rum",
+                "Juice of 1/2 Lime",
+                "Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Dragonfly",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "4 oz Ginger ale",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Dry Rob Roy",
+            "ingredients": [
+                "2 1/2 oz Scotch",
+                "1 1/2 tsp Dry Vermouth",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Dubonnet Cocktail",
+            "ingredients": [
+                "1 1/2 oz Dubonnet Rouge",
+                "3/4 oz Gin",
+                "1 dash Bitters",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "English Highball",
+            "ingredients": [
+                "3/4 oz Brandy",
+                "3/4 oz Gin",
+                "3/4 oz Sweet Vermouth",
+                "Carbonated water",
+                "Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "English Rose Cocktail",
+            "ingredients": [
+                "3/4 oz Apricot brandy",
+                "1 1/2 oz Gin",
+                "3/4 oz Dry Vermouth",
+                "1 tsp Grenadine",
+                "1/4 tsp Lemon juice",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Flying Dutchman",
+            "ingredients": [
+                "2 oz Gin",
+                "1/2 oz Triple sec"
+            ]
+        },
+        {
+            "cocktail name": "Flying Scotchman",
+            "ingredients": [
+                "1 oz Scotch",
+                "1 oz Sweet Vermouth",
+                "1 dash Bitters",
+                "1/4 tsp Sugar syrup"
+            ]
+        },
+        {
+            "cocktail name": "Foxy Lady",
+            "ingredients": [
+                "1/2 oz Amaretto",
+                "1/2 oz Creme de Cacao",
+                "2 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "French \"75\"",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "2 tsp superfine Sugar",
+                "1 1/2 oz Lemon juice",
+                "4 oz Chilled Champagne",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Frisco Sour",
+            "ingredients": [
+                "2 oz Blended whiskey",
+                "1/2 oz Benedictine",
+                "Juice of 1/4 Lemon",
+                "Juice of 1/2 Lime",
+                "1 slice Lemon",
+                "1 slice Lime"
+            ]
+        },
+        {
+            "cocktail name": "Frozen Daiquiri",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 tblsp Triple sec",
+                "1 1/2 oz Lime juice",
+                "1 tsp Sugar",
+                "1 Cherry",
+                "1 cup crushed Ice"
+            ]
+        },
+        {
+            "cocktail name": "Frozen Mint Daiquiri",
+            "ingredients": [
+                "2 oz Light rum",
+                "1 tblsp Lime juice",
+                "6 Mint",
+                "1 tsp Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Frozen Pineapple Daiquiri",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "4 chunks Pineapple",
+                "1 tblsp Lime juice",
+                "1/2 tsp Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Gentleman's Club",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 oz Brandy",
+                "1 oz Sweet Vermouth",
+                "1 oz Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Gin And Tonic",
+            "ingredients": [
+                "2 oz Gin",
+                "5 oz Tonic water",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Gin Cooler",
+            "ingredients": [
+                "2 oz Gin",
+                "Carbonated water",
+                "Powdered sugar",
+                "Orange spiral",
+                "Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Gin Daisy",
+            "ingredients": [
+                "2 oz Gin",
+                "1 oz Lemon juice",
+                "1/2 tsp superfine Sugar",
+                "1/2 tsp Grenadine",
+                "1 Maraschino cherry",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Gin Fizz",
+            "ingredients": [
+                "2 oz Gin",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Gin Sling",
+            "ingredients": [
+                "2 oz Gin",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 tsp Water",
+                "Twist of Orange peel"
+            ]
+        },
+        {
+            "cocktail name": "Gin Smash",
+            "ingredients": [
+                "2 oz Gin",
+                "1 oz Carbonated water",
+                "1 cube Sugar",
+                "4 Mint",
+                "1 slice Orange",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Gin Sour",
+            "ingredients": [
+                "2 oz Gin",
+                "1 oz Lemon juice",
+                "1/2 tsp superfine Sugar",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Gin Squirt",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 tsp Grenadine",
+                "1 tblsp Powdered sugar",
+                "3 chunks Pineapple",
+                "2 Strawberries",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Gin Swizzle",
+            "ingredients": [
+                "1 1/2 oz Lime juice",
+                "1 tsp superfine Sugar",
+                "2 oz Gin",
+                "1 dash Bitters",
+                "3 oz Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Gin Toddy",
+            "ingredients": [
+                "2 oz Gin",
+                "2 tsp Water",
+                "1/2 tsp Powdered sugar",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Godchild",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Amaretto",
+                "1 oz Heavy cream"
+            ]
+        },
+        {
+            "cocktail name": "Godfather",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "3/4 oz Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "Godmother",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "3/4 oz Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "Grass Skirt",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 oz Triple sec",
+                "1 oz Pineapple juice",
+                "1/2 tsp Grenadine",
+                "1 Pineapple"
+            ]
+        },
+        {
+            "cocktail name": "Harvey Wallbanger",
+            "ingredients": [
+                "1 oz Vodka",
+                "1/2 oz Galliano",
+                "4 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Havana Cocktail",
+            "ingredients": [
+                "1 oz Light rum",
+                "1 oz Pineapple juice",
+                "1 tsp Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Hawaiian Cocktail",
+            "ingredients": [
+                "2 oz Gin",
+                "1/2 oz Triple sec",
+                "1 tblsp Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Highland Fling Cocktail",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "3/4 oz Sweet Vermouth",
+                "2 dashes Orange bitters",
+                "1 Olive"
+            ]
+        },
+        {
+            "cocktail name": "Imperial Fizz",
+            "ingredients": [
+                "1/2 oz Light rum",
+                "1 1/2 oz Blended whiskey",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Irish Spring",
+            "ingredients": [
+                "1 oz Irish whiskey",
+                "1/2 oz Peach brandy",
+                "1 oz Orange juice",
+                "1 oz Sweet and sour",
+                "1 slice Orange",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Jack Rose Cocktail",
+            "ingredients": [
+                "1 1/2 oz Apple brandy",
+                "1 tsp Grenadine",
+                "Juice of 1/2 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Japanese Fizz",
+            "ingredients": [
+                "1 1/2 oz Blended whiskey",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 tblsp Port",
+                "1 Egg white",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Jewel Of The Nile",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1/2 oz Green Chartreuse",
+                "1/2 oz Yellow Chartreuse"
+            ]
+        },
+        {
+            "cocktail name": "John Collins",
+            "ingredients": [
+                "2 oz Bourbon",
+                "1 oz Lemon juice",
+                "1 tsp superfine Sugar",
+                "3 oz Club soda",
+                "1 Maraschino cherry",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Kamikaze",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Triple sec",
+                "1 oz Lime juice"
+            ]
+        },
+        {
+            "cocktail name": "Kentucky B And B",
+            "ingredients": [
+                "2 oz Bourbon",
+                "1/2 oz Benedictine"
+            ]
+        },
+        {
+            "cocktail name": "Kentucky Colonel",
+            "ingredients": [
+                "3 oz Bourbon",
+                "1/2 oz Benedictine",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Lady Love Fizz",
+            "ingredients": [
+                "2 oz Gin",
+                "2 tsp Light cream",
+                "1 tsp Powdered sugar",
+                "Juice of 1/2 Lemon",
+                "1 Egg white",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Loch Lomond",
+            "ingredients": [
+                "2 oz Scotch",
+                "1/2 oz Drambuie",
+                "1/2 oz Dry Vermouth",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "London Town",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1/2 oz Maraschino liqueur",
+                "2 dashes Orange bitters"
+            ]
+        },
+        {
+            "cocktail name": "Lone Tree Cocktail",
+            "ingredients": [
+                "3/4 oz Sweet Vermouth",
+                "1 1/2 oz Gin"
+            ]
+        },
+        {
+            "cocktail name": "Lone Tree Cooler",
+            "ingredients": [
+                "Carbonated water",
+                "Gin",
+                "Dry Vermouth",
+                "Powdered sugar",
+                "Orange spiral",
+                "Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Lord And Lady",
+            "ingredients": [
+                "1 1/2 oz Dark rum",
+                "1/2 oz Tia maria"
+            ]
+        },
+        {
+            "cocktail name": "Mai Tai",
+            "ingredients": [
+                "1 oz Light rum",
+                "1/2 oz Orgeat syrup",
+                "1/2 oz Triple sec",
+                "1 1/2 oz Sweet and sour",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Martinez Cocktail",
+            "ingredients": [
+                "1 oz Gin",
+                "1 oz Dry Vermouth",
+                "1/4 tsp Triple sec",
+                "1 dash Orange bitters",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Martini",
+            "ingredients": [
+                "1 2/3 oz Gin",
+                "1/3 oz Dry Vermouth",
+                "1 Olive"
+            ]
+        },
+        {
+            "cocktail name": "Midnight Cowboy",
+            "ingredients": [
+                "2 oz Bourbon",
+                "1 oz Dark rum",
+                "1/2 oz Heavy cream"
+            ]
+        },
+        {
+            "cocktail name": "Mississippi Planters Punch",
+            "ingredients": [
+                "1 oz Brandy",
+                "1/2 oz Light rum",
+                "1/2 oz Bourbon",
+                "Juice of 1/2 Lemon",
+                "1 tblsp Powdered sugar",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Monkey Wrench",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "3 oz Grapefruit juice",
+                "1 dash Bitters"
+            ]
+        },
+        {
+            "cocktail name": "New York Sour",
+            "ingredients": [
+                "2 oz Blended whiskey",
+                "Juice of 1/2 Lemon",
+                "1 tsp Sugar",
+                "(Claret) Red wine",
+                "Lemon",
+                "Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Orange Oasis",
+            "ingredients": [
+                "1/2 oz Cherry brandy",
+                "1 1/2 oz Gin",
+                "4 oz Orange juice",
+                "Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Orgasm",
+            "ingredients": [
+                "1/2 oz white Creme de Cacao",
+                "1/2 oz Amaretto",
+                "1/2 oz Triple sec",
+                "1/2 oz Vodka",
+                "1 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Pink Gin",
+            "ingredients": [
+                "3 dashes Bitters",
+                "2 oz Gin"
+            ]
+        },
+        {
+            "cocktail name": "Pink Lady",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 tsp Grenadine",
+                "1 tsp Light cream",
+                "1 Egg white"
+            ]
+        },
+        {
+            "cocktail name": "Poppy Cocktail",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "3/4 oz white Creme de Cacao"
+            ]
+        },
+        {
+            "cocktail name": "Port And Starboard",
+            "ingredients": [
+                "1 tblsp Grenadine",
+                "1/2 oz Green Creme de Menthe"
+            ]
+        },
+        {
+            "cocktail name": "Port Wine Cocktail",
+            "ingredients": [
+                "2 1/2 oz Port",
+                "1/2 tsp Brandy"
+            ]
+        },
+        {
+            "cocktail name": "Port Wine Flip",
+            "ingredients": [
+                "1 1/2 oz Port",
+                "2 tsp Light cream",
+                "1 tsp Powdered sugar",
+                "1 whole Egg",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Quaker's Cocktail",
+            "ingredients": [
+                "3/4 oz Light rum",
+                "3/4 oz Brandy",
+                "Juice of 1/4 Lemon",
+                "2 tsp Raspberry syrup"
+            ]
+        },
+        {
+            "cocktail name": "Quarter Deck Cocktail",
+            "ingredients": [
+                "1 1/2 Light rum",
+                "1/3 oz cream Sherry",
+                "Juice of 1/2 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Queen Bee",
+            "ingredients": [
+                "1 oz Coffee brandy",
+                "1 1/2 oz Lime vodka",
+                "1/2 oz cream Sherry"
+            ]
+        },
+        {
+            "cocktail name": "Queen Charlotte",
+            "ingredients": [
+                "2 oz Red wine",
+                "1 oz Grenadine",
+                "Lemon-lime soda"
+            ]
+        },
+        {
+            "cocktail name": "Queen Elizabeth",
+            "ingredients": [
+                "1/2 oz Dry Vermouth",
+                "1 1/2 oz Gin",
+                "1 1/2 tsp Benedictine"
+            ]
+        },
+        {
+            "cocktail name": "Quentin",
+            "ingredients": [
+                "1 1/2 oz Dark rum",
+                "1/2 oz Kahlua",
+                "1 oz Light cream",
+                "1/8 tsp grated Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Royal Fizz",
+            "ingredients": [
+                "1 oz Gin",
+                "2 oz Sweet and sour",
+                "1 whole Egg",
+                "Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Royal Gin Fizz",
+            "ingredients": [
+                "2 oz Gin",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 whole Egg",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Rum Cobbler",
+            "ingredients": [
+                "1 tsp superfine Sugar",
+                "3 oz Club soda",
+                "1 Lemon",
+                "2 oz Dark rum",
+                "1 Maraschino cherry",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Rum Cooler",
+            "ingredients": [
+                "2 oz light or dark Rum",
+                "4 oz Lemon-lime soda",
+                "1 Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Rum Milk Punch",
+            "ingredients": [
+                "2 oz Light rum",
+                "1 cup Milk",
+                "1 tsp Powdered sugar",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Rum Old-fashioned",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 tsp 151 proof rum",
+                "1/2 tsp Powdered sugar",
+                "1 dash Bitters",
+                "1 tsp Water",
+                "Twist of Lime peel"
+            ]
+        },
+        {
+            "cocktail name": "Rum Screwdriver",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "5 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Rum Sour",
+            "ingredients": [
+                "2 oz Light rum",
+                "1 oz Lemon juice",
+                "1/2 tsp superfine Sugar",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Rum Toddy",
+            "ingredients": [
+                "2 oz light or dark Rum",
+                "2 tsp Powdered sugar",
+                "1 twist of Lemon peel",
+                "2 tsp Water"
+            ]
+        },
+        {
+            "cocktail name": "Rusty Nail",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "1/2 oz Drambuie",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Salty Dog",
+            "ingredients": [
+                "5 oz Grapefruit juice",
+                "1 1/2 oz Gin",
+                "1/4 tsp Salt"
+            ]
+        },
+        {
+            "cocktail name": "Sazerac",
+            "ingredients": [
+                "1 tsp Ricard",
+                "1/2 tsp superfine Sugar",
+                "2 dashes Peychaud bitters",
+                "1 tsp Water",
+                "2 oz Bourbon",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Scooter",
+            "ingredients": [
+                "1 oz Brandy",
+                "1 oz Amaretto",
+                "1 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Scotch Cobbler",
+            "ingredients": [
+                "2 oz Scotch",
+                "4 dashes Brandy",
+                "4 dashes Curacao",
+                "1 slice Orange",
+                "1 Mint"
+            ]
+        },
+        {
+            "cocktail name": "Scotch Sour",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "Juice of 1/2 Lime",
+                "1/2 tsp Powdered sugar",
+                "1/2 slice Lemon",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Screwdriver",
+            "ingredients": [
+                "2 oz Vodka",
+                "Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Shanghai Cocktail",
+            "ingredients": [
+                "1 oz Jamaican Light rum",
+                "1 tsp Anisette",
+                "1/2 tsp Grenadine",
+                "Juice of 1/4 Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Sherry Eggnog",
+            "ingredients": [
+                "2 oz cream Sherry",
+                "1 tsp Powdered sugar",
+                "1 whole Egg",
+                "Milk",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Sherry Flip",
+            "ingredients": [
+                "1 1/2 oz cream Sherry",
+                "2 tsp Light cream",
+                "1 tsp Powdered sugar",
+                "1 whole Egg",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Sidecar",
+            "ingredients": [
+                "2 oz Cognac",
+                "1/2 oz Cointreau",
+                "1 oz Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Sidecar Cocktail",
+            "ingredients": [
+                "1 oz Brandy",
+                "1/2 oz Triple sec",
+                "Juice of 1/4 Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Singapore Sling",
+            "ingredients": [
+                "1/2 oz Cherry brandy",
+                "1/2 oz Grenadine",
+                "1 oz Gin",
+                "2 oz Sweet and sour",
+                "Carbonated water",
+                "Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Sloe Gin Cocktail",
+            "ingredients": [
+                "2 oz Sloe gin",
+                "1/4 tsp Dry Vermouth",
+                "1 dash Orange bitters"
+            ]
+        },
+        {
+            "cocktail name": "Sol Y Sombra",
+            "ingredients": [
+                "1 1/2 oz Brandy",
+                "1 1/2 oz Anisette"
+            ]
+        },
+        {
+            "cocktail name": "Stone Sour",
+            "ingredients": [
+                "1 oz Apricot brandy",
+                "1 oz Orange juice",
+                "1 oz Sweet and sour"
+            ]
+        },
+        {
+            "cocktail name": "Strawberry Daiquiri",
+            "ingredients": [
+                "1/2 oz Strawberry schnapps",
+                "1 oz Light rum",
+                "1 oz Lime juice",
+                "1 tsp Powdered sugar",
+                "1 oz Strawberries"
+            ]
+        },
+        {
+            "cocktail name": "Strawberry Margarita",
+            "ingredients": [
+                "1/2 oz Strawberry schnapps",
+                "1 oz Tequila",
+                "1/2 oz Triple sec",
+                "1 oz Lemon juice",
+                "1 oz Strawberries",
+                "Salt"
+            ]
+        },
+        {
+            "cocktail name": "Tequila Fizz",
+            "ingredients": [
+                "2 oz Tequila",
+                "1 tblsp Lemon juice",
+                "3/4 oz Grenadine",
+                "1 Egg white",
+                "Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Tequila Sour",
+            "ingredients": [
+                "2 oz Tequila",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1/2 slice Lemon",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Thriller",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "1 oz Green Ginger Wine",
+                "1 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Tom Collins",
+            "ingredients": [
+                "2 oz Gin",
+                "1 oz Lemon juice",
+                "1 tsp superfine Sugar",
+                "3 oz Club soda",
+                "1 Maraschino cherry",
+                "1 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Turf Cocktail",
+            "ingredients": [
+                "1 oz Dry Vermouth",
+                "1 oz Gin",
+                "1/4 tsp Anis",
+                "2 dashes Bitters",
+                "Twist of Orange peel"
+            ]
+        },
+        {
+            "cocktail name": "Tuxedo Cocktail",
+            "ingredients": [
+                "1 1/2 oz Dry Vermouth",
+                "1 1/2 oz Gin",
+                "1/4 tsp Maraschino liqueur",
+                "1/4 tsp Anis",
+                "2 dashes Orange bitters",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Valencia Cocktail",
+            "ingredients": [
+                "1 1/2 oz Apricot brandy",
+                "1 tblsp Orange juice",
+                "2 dashes Orange bitters"
+            ]
+        },
+        {
+            "cocktail name": "Van Vleet",
+            "ingredients": [
+                "3 oz Light rum",
+                "1 oz Maple syrup",
+                "1 oz Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Vermouth Cassis",
+            "ingredients": [
+                "1 1/2 oz Dry Vermouth",
+                "3/4 oz Creme de Cassis",
+                "Carbonated water"
+            ]
+        },
+        {
+            "cocktail name": "Vesuvio",
+            "ingredients": [
+                "1 oz Light rum",
+                "1/2 oz Sweet Vermouth",
+                "Juice of 1/2 Lemon",
+                "1 tsp Powdered sugar",
+                "1 Egg white"
+            ]
+        },
+        {
+            "cocktail name": "Veteran",
+            "ingredients": [
+                "2 oz Dark rum",
+                "1/2 oz Cherry brandy"
+            ]
+        },
+        {
+            "cocktail name": "Victor",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1/2 oz Sweet Vermouth",
+                "1/2 oz Brandy"
+            ]
+        },
+        {
+            "cocktail name": "Victory Collins",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "3 oz Lemon juice",
+                "3 oz unsweetened Grape juice",
+                "1 tsp Powdered sugar",
+                "1 slice Orange"
+            ]
+        },
+        {
+            "cocktail name": "Vodka And Tonic",
+            "ingredients": [
+                "2 oz Vodka",
+                "Tonic water"
+            ]
+        },
+        {
+            "cocktail name": "Waikiki Beachcomber",
+            "ingredients": [
+                "3/4 oz Triple sec",
+                "3/4 oz Gin",
+                "1 tblsp Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Whisky Mac",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "1 oz Green Ginger Wine"
+            ]
+        },
+        {
+            "cocktail name": "White Russian",
+            "ingredients": [
+                "2 oz Vodka",
+                "1 oz Coffee liqueur",
+                "Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Afterglow",
+            "ingredients": [
+                "1 part Grenadine",
+                "4 parts Orange juice",
+                "4 parts Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Alice Cocktail",
+            "ingredients": [
+                "1 cl Grenadine",
+                "1 cl Orange juice",
+                "2 cl Pineapple juice",
+                "4 cl Cream"
+            ]
+        },
+        {
+            "cocktail name": "Apple Karate",
+            "ingredients": [
+                "2 cups Apple juice",
+                "1 large Carrot"
+            ]
+        },
+        {
+            "cocktail name": "Bora Bora",
+            "ingredients": [
+                "10 cl Pineapple juice",
+                "6 cl Passion fruit juice",
+                "1 cl Lemon juice",
+                "1 cl Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Orangeade",
+            "ingredients": [
+                "5 cl Lemon juice",
+                "15 cl Orange juice",
+                "2-3 cl Sugar syrup",
+                "Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Rail Splitter",
+            "ingredients": [
+                "2 tsp Sugar syrup",
+                "Lemon juice",
+                "Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Banana Milk Shake",
+            "ingredients": [
+                "10 cl cold Milk",
+                "4 cl Orange juice",
+                "2 tsp Sugar syrup",
+                "1/2 Banana"
+            ]
+        },
+        {
+            "cocktail name": "Banana Strawberry Shake",
+            "ingredients": [
+                "1/2 lb frozen Strawberries",
+                "1 frozen Banana",
+                "1 cup plain Yoghurt",
+                "1 cup Milk",
+                "to taste Honey"
+            ]
+        },
+        {
+            "cocktail name": "Banana Strawberry Shake Daiquiri-type",
+            "ingredients": [
+                "1/2 lb frozen Strawberries",
+                "1 frozen Banana",
+                "2 cups fresh Apple juice"
+            ]
+        },
+        {
+            "cocktail name": "Egg Cream",
+            "ingredients": [
+                "2 tblsp Chocolate syrup",
+                "6 oz whole Milk",
+                "6 oz Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Fruit Cooler",
+            "ingredients": [
+                "1 can frozen Apple juice",
+                "1 cup Strawberries",
+                "2 tblsp Sugar",
+                "1 Lemon",
+                "1 Apple",
+                "1 L Soda water",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Fruit Flip-Flop",
+            "ingredients": [
+                "1 cup Yoghurt",
+                "1 cup Fruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Fruit Shake",
+            "ingredients": [
+                "1 cup fruit Yoghurt",
+                "1 Banana",
+                "4 oz frozen Orange juice",
+                "1/2 piece textural Fruit",
+                "6 Ice"
+            ]
+        },
+        {
+            "cocktail name": "Just a Moonmint",
+            "ingredients": [
+                "2 cups Milk",
+                "Chocolate syrup",
+                "Mint syrup"
+            ]
+        },
+        {
+            "cocktail name": "Lassi - A South Indian Drink",
+            "ingredients": [
+                "1/2 cup plain Yoghurt",
+                "1 1/4 cup cold Water",
+                "1/2 tsp ground roasted Cumin seed",
+                "1/4 tsp Salt",
+                "1/4 tsp dried Mint"
+            ]
+        },
+        {
+            "cocktail name": "Lassi Khara",
+            "ingredients": [
+                "1 cup Yoghurt",
+                "2 cups cold Water",
+                "1 tsp Salt",
+                "1 pinch Asafoetida"
+            ]
+        },
+        {
+            "cocktail name": "Lassi Raita",
+            "ingredients": [
+                "2 cups Yoghurt",
+                "4-6 Ice",
+                "Sugar",
+                "Lime",
+                "Salt"
+            ]
+        },
+        {
+            "cocktail name": "Lassi - Sweet",
+            "ingredients": [
+                "1 cup Yoghurt",
+                "2 cups cold Water",
+                "4 tblsp Sugar",
+                "pinch Salt",
+                "2 tblsp Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Lassi - Mango",
+            "ingredients": [
+                "2 Mango",
+                "2 cups Yoghurt",
+                "1/2 cup Sugar",
+                "1 cup iced Water"
+            ]
+        },
+        {
+            "cocktail name": "Lemouroudji",
+            "ingredients": [
+                "2 pieces Ginger",
+                "1 gal Water",
+                "1 lb Lemon",
+                "1 cup Sugar",
+                "ground Cayenne pepper"
+            ]
+        },
+        {
+            "cocktail name": "Limeade",
+            "ingredients": [
+                "Juice of 1 Lime",
+                "1 tblsp Sugar",
+                "(seltzer water) Soda water",
+                "Lime peel"
+            ]
+        },
+        {
+            "cocktail name": "Imperial Cocktail",
+            "ingredients": [
+                "4 cl Lime juice",
+                "2 cl Gin",
+                "4 cl Aperol"
+            ]
+        },
+        {
+            "cocktail name": "Banana Cantaloupe Smoothie",
+            "ingredients": [
+                "Juice of 1/2 Cantaloupe",
+                "1 Banana"
+            ]
+        },
+        {
+            "cocktail name": "Apple Berry Smoothie",
+            "ingredients": [
+                "1 cup Berries",
+                "2 Apple"
+            ]
+        },
+        {
+            "cocktail name": "Grape lemon pineapple Smoothie",
+            "ingredients": [
+                "1 cup Grapes",
+                "1/4 Lemon",
+                "1/2 Pineapple"
+            ]
+        },
+        {
+            "cocktail name": "Kiwi Papaya Smoothie",
+            "ingredients": [
+                "3 Kiwi",
+                "1/2 Papaya"
+            ]
+        },
+        {
+            "cocktail name": "Mango Orange Smoothie",
+            "ingredients": [
+                "1 Mango",
+                "2 Orange"
+            ]
+        },
+        {
+            "cocktail name": "Pineapple Gingerale Smoothie",
+            "ingredients": [
+                "1/4 inch Ginger",
+                "1/2 Pineapple"
+            ]
+        },
+        {
+            "cocktail name": "Kill the cold Smoothie",
+            "ingredients": [
+                "1 inch Ginger",
+                "1/4 Lemon",
+                "1 cup hot Water"
+            ]
+        },
+        {
+            "cocktail name": "Strawberry Shivers",
+            "ingredients": [
+                "1 1/2 cup Strawberries",
+                "4 tsp Honey",
+                "1/2 cup Water"
+            ]
+        },
+        {
+            "cocktail name": "Sweet Bananas",
+            "ingredients": [
+                "2 cups Milk",
+                "1 Banana",
+                "1 tblsp Honey"
+            ]
+        },
+        {
+            "cocktail name": "Tomato Tang",
+            "ingredients": [
+                "2 cups Tomato juice",
+                "1-2 tblsp Lemon juice",
+                "1 dash Celery salt"
+            ]
+        },
+        {
+            "cocktail name": "Yoghurt Cooler",
+            "ingredients": [
+                "1 cup Yoghurt",
+                "1 cup Fruit",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Castillian Hot Chocolate",
+            "ingredients": [
+                "1/2 cup Cocoa powder",
+                "1 cup Sugar",
+                "7 tsp Cornstarch",
+                "1/2 cup Water",
+                "1 qt Milk"
+            ]
+        },
+        {
+            "cocktail name": "Chocolate Beverage",
+            "ingredients": [
+                "6 cups Milk",
+                "3 oz Mexican Chocolate",
+                "1 tsp powdered Cinnamon",
+                "3 Egg"
+            ]
+        },
+        {
+            "cocktail name": "Chocolate Drink",
+            "ingredients": [
+                "125 gr Chocolate",
+                "3/4 L Milk",
+                "Water"
+            ]
+        },
+        {
+            "cocktail name": "Drinking Chocolate",
+            "ingredients": [
+                "2 oz Heavy cream",
+                "6-8 oz Milk",
+                "1 stick Cinnamon",
+                "1 Vanilla",
+                "2 oz finely chopped dark Chocolate",
+                "Fresh Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "Hot Chocolate to Die for",
+            "ingredients": [
+                "12 oz fine Chocolate",
+                "1 tsp Butter",
+                "1/2 tsp Vanilla extract",
+                "1 cup Half-and-half",
+                "mini Marshmallows"
+            ]
+        },
+        {
+            "cocktail name": "Microwave Hot Cocoa",
+            "ingredients": [
+                "5 tblsp Sugar",
+                "3 tblsp Cocoa powder",
+                "1 dash Salt",
+                "3 tblsp hot Water",
+                "2 cups Milk",
+                "1/4 tsp Vanilla extract"
+            ]
+        },
+        {
+            "cocktail name": "Nuked Hot Chocolate",
+            "ingredients": [
+                "2 tsp Cocoa powder",
+                "1 tsp Sugar",
+                "1/2 tsp Vanilla extract",
+                "12 oz Milk"
+            ]
+        },
+        {
+            "cocktail name": "Orange Scented Hot Chocolate",
+            "ingredients": [
+                "2 cups Milk",
+                "4 oz chopped bittersweet or semi-sweet Chocolate",
+                "3 2-inch strips Orange peel",
+                "1/2 tsp instant Espresso",
+                "1/8 tsp ground Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Spanish chocolate",
+            "ingredients": [
+                "2 cups Milk",
+                "2 oz sweet Chocolate",
+                "1/2 tsp Cinnamon",
+                "2 beaten Egg yolk"
+            ]
+        },
+        {
+            "cocktail name": "Lemon Shot",
+            "ingredients": [
+                "1/2 oz Galliano",
+                "1/2 oz Absolut Citron",
+                "wedge Lemon",
+                "Bacardi Sugar",
+                "151 proof rum"
+            ]
+        },
+        {
+            "cocktail name": "Sex on the Beach",
+            "ingredients": [
+                "1 oz Vodka",
+                "3/4 oz Peach schnapps",
+                "Cranberry juice",
+                "Grapefruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Autodaf\u00e9",
+            "ingredients": [
+                "4 cl Vodka",
+                "1 dash Lime juice",
+                "Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Gagliardo",
+            "ingredients": [
+                "5 parts Peach Vodka",
+                "3 parts Lemon juice",
+                "1 part Galliano",
+                "1 part Sirup of roses"
+            ]
+        },
+        {
+            "cocktail name": "Surf City Lifesaver",
+            "ingredients": [
+                "1 part Ouzo",
+                "1 part Baileys irish cream",
+                "2 parts Gin",
+                "1/2 part Grand Marnier"
+            ]
+        },
+        {
+            "cocktail name": "Grizzly Bear",
+            "ingredients": [
+                "1 part Amaretto",
+                "1 part J\u00e4germeister",
+                "1 part Kahlua",
+                "2 1/2 parts Milk"
+            ]
+        },
+        {
+            "cocktail name": "Karsk",
+            "ingredients": [
+                "1 part Coffee",
+                "2 parts Grain alcohol"
+            ]
+        },
+        {
+            "cocktail name": "Happy Skipper",
+            "ingredients": [
+                "1 1/2 cl Spiced rum",
+                "Ginger ale",
+                "Lime",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Frapp\u00e9",
+            "ingredients": [
+                "1/2 cup black Coffee",
+                "1/2 cup Milk",
+                "1-2 tsp Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Iced Coffee",
+            "ingredients": [
+                "1/4 cup instant Coffee",
+                "1/4 cup Sugar",
+                "1/4 cup hot Water",
+                "4 cups cold Milk"
+            ]
+        },
+        {
+            "cocktail name": "Iced Coffee Fillip",
+            "ingredients": [
+                "2 tsp Kahlua",
+                "Strong cold Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Masala Chai",
+            "ingredients": [
+                "2 cups Water",
+                "3-4 tsp Tea",
+                "1 chunk dried Ginger",
+                "3-4 crushed Cardamom",
+                "3 Cloves",
+                "1 piece Cinnamon",
+                "1-2 whole Black pepper",
+                "to taste Sugar",
+                "Milk"
+            ]
+        },
+        {
+            "cocktail name": "Melya",
+            "ingredients": [
+                "Espresso",
+                "Unsweetened Honey",
+                "Cocoa powder"
+            ]
+        },
+        {
+            "cocktail name": "Spiking coffee",
+            "ingredients": [
+                "Coffee",
+                "Cinnamon"
+            ]
+        },
+        {
+            "cocktail name": "Thai Coffee",
+            "ingredients": [
+                "6 tblsp ground Coffee",
+                "1/4 tsp Coriander",
+                "4-5 whole green Cardamom",
+                "Sugar",
+                "Whipping cream",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Thai Iced Coffee",
+            "ingredients": [
+                "black Coffee",
+                "Sugar",
+                "pods Cream",
+                "Cardamom"
+            ]
+        },
+        {
+            "cocktail name": "Thai Iced Tea",
+            "ingredients": [
+                "1/4 cup Thai Tea",
+                "1/2 cup boiling Water",
+                "2 tsp sweetened Condensed milk",
+                "cubes Ice",
+                "garnish Mint"
+            ]
+        },
+        {
+            "cocktail name": "Absinthe #2",
+            "ingredients": [
+                "1 bottle Vodka",
+                "50 gr Sugar",
+                "50 ml pure Anise",
+                "1 tblsp Licorice root",
+                "1 Wormwood"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Liqueur",
+            "ingredients": [
+                "1 cup Sugar",
+                "3/4 cup Water",
+                "2 Apricot",
+                "1 tblsp Almond flavoring",
+                "1/2 cup pure Grain alcohol",
+                "1/2 cup Water",
+                "1 cup Brandy",
+                "3 drops yellow Food coloring",
+                "6 drops red Food coloring",
+                "2 drops blue Food coloring",
+                "1/2 tsp Glycerine"
+            ]
+        },
+        {
+            "cocktail name": "Angelica Liqueur",
+            "ingredients": [
+                "3 tblsp chopped Angelica root",
+                "1 tblsp chopped Almond",
+                "1 cracked Allspice",
+                "1 one-inch Cinnamon",
+                "3-6 crushed Anise",
+                "1/8 tsp powdered Coriander",
+                "1 tblsp fresh chopped Marjoram leaves",
+                "1.5 cup Vodka",
+                "1/2 cup granulated Sugar",
+                "1/4 cup Water",
+                "1 drop yellow Food coloring",
+                "1 drop green Food coloring"
+            ]
+        },
+        {
+            "cocktail name": "Caribbean Orange Liqueur",
+            "ingredients": [
+                "3 large Orange",
+                "3 cups Vodka",
+                "1 1/3 cup superfine Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Coffee Liqueur",
+            "ingredients": [
+                "10 tblsp instant Coffee",
+                "4 tblsp Vanilla extract",
+                "2 1/2 cups Sugar",
+                "1 qt Vodka",
+                "2 1/2 cups Water"
+            ]
+        },
+        {
+            "cocktail name": "Coffee-Vodka",
+            "ingredients": [
+                "2 cups Water",
+                "2 cups white Sugar",
+                "1/2 cup instant Coffee",
+                "1/2 Vanilla",
+                "1 1/2 cup Vodka",
+                "Caramel coloring"
+            ]
+        },
+        {
+            "cocktail name": "Cranberry Cordial",
+            "ingredients": [
+                "1/2 kg chopped Cranberries",
+                "3/4 L Sugar",
+                "1/2 L Light rum"
+            ]
+        },
+        {
+            "cocktail name": "Creme de Menthe",
+            "ingredients": [
+                "8 cups Sugar",
+                "6 cups Water",
+                "1 pint Grain alcohol",
+                "1 oz pure Peppermint extract",
+                "1 tblsp green Food coloring"
+            ]
+        },
+        {
+            "cocktail name": "Irish Cream",
+            "ingredients": [
+                "1 cup Scotch",
+                "1 1/4 cup Half-and-half",
+                "1 can sweetened Condensed milk",
+                "3 drops Coconut syrup",
+                "1 tblsp Chocolate syrup"
+            ]
+        },
+        {
+            "cocktail name": "Scottish Highland Liqueur",
+            "ingredients": [
+                "1 fifth Johnnie Walker",
+                "1 1/2 cup mild Honey",
+                "2 tsp dried and chopped Angelica root",
+                "1/4 tsp crushed Fennel seeds",
+                "2 2 inch strips Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Tia-Maria",
+            "ingredients": [
+                "1 cup Water",
+                "3/4-1 cup Brown sugar",
+                "4 tsp Coffee",
+                "1 cup Rum",
+                "4 tsp Vanilla extract"
+            ]
+        },
+        {
+            "cocktail name": "Aloha Fruit punch",
+            "ingredients": [
+                "3/4 cup Water",
+                "2 tsp Ginger",
+                "2 cups Guava juice",
+                "1 1/2 tblsp Lemon juice",
+                "1 1/2 cup Pineapple",
+                "1 cup Sugar",
+                "3-4 cups Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Apple Cider Punch #1",
+            "ingredients": [
+                "4 qt Apple cider",
+                "1 cup Brown sugar",
+                "6 oz frozen Lemonade",
+                "6 oz frozen Orange juice",
+                "6 whole Cloves",
+                "6 whole Allspice",
+                "1 tsp ground Nutmeg",
+                "3 sticks Cinnamon"
+            ]
+        },
+        {
+            "cocktail name": "Artillery Punch",
+            "ingredients": [
+                "1 quart black Tea",
+                "1 quart Rye whiskey",
+                "1 fifth Red wine",
+                "1 pint Jamaican Rum",
+                "1/2 pint Brandy",
+                "1 1/2 oz Benedictine",
+                "1 pint Orange juice",
+                "1/2 pint Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Berry Deadly",
+            "ingredients": [
+                "2 pint Everclear",
+                "1 bottle Boone Strawberry Hill Wine",
+                "1/2 gal Orange juice",
+                "1 gal Tropical Berry Kool-Aid"
+            ]
+        },
+        {
+            "cocktail name": "Cranberry Punch",
+            "ingredients": [
+                "4 cups Cranberry juice",
+                "1 1/2 cup Sugar",
+                "4 cups Pineapple juice",
+                "1 tblsp Almond flavoring",
+                "2 qt Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Egg Nog #4",
+            "ingredients": [
+                "6 Egg yolk",
+                "1/4 cup Sugar",
+                "2 cups Milk",
+                "1/2 cup Light rum",
+                "1/2 cup Bourbon",
+                "1 tsp Vanilla extract",
+                "1/4 tsp Salt",
+                "1 cup Whipping cream",
+                "6 Egg white",
+                "1/4 cup Sugar",
+                "Ground Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Egg-Nog - Classic Cooked",
+            "ingredients": [
+                "6 Egg",
+                "1/4 cup Sugar",
+                "1/4 tsp Salt",
+                "1 qt Milk",
+                "1 tsp Vanilla extract"
+            ]
+        },
+        {
+            "cocktail name": "Egg Nog - Healthy",
+            "ingredients": [
+                "1/2 cup Egg",
+                "3 tblsp Sugar",
+                "13 oz skimmed Condensed milk",
+                "3/4 cup skimmed Milk",
+                "1 tsp Vanilla extract",
+                "1 tsp Rum",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Gluehwein",
+            "ingredients": [
+                "1 L Red wine",
+                "125 ml Water",
+                "60 gr Sugar",
+                "1 Cinnamon",
+                "3 Cloves",
+                "1 tblsp Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Holloween Punch",
+            "ingredients": [
+                "Grape juice",
+                ", orange Carbonated soft drink",
+                "Sherbet",
+                "Sherbet"
+            ]
+        },
+        {
+            "cocktail name": "Mulled Wine",
+            "ingredients": [
+                "3 cups Water",
+                "1 cup Sugar",
+                "12 Cloves",
+                "2 Cinnamon",
+                "1 Lemon peel",
+                "750 ml Red wine",
+                "1/4 cup Brandy"
+            ]
+        },
+        {
+            "cocktail name": "Sangria #1",
+            "ingredients": [
+                "1 bottle Red wine",
+                "1/2 cup Sugar",
+                "1 cup Orange juice",
+                "1 cup Lemon juice",
+                "Cloves",
+                "Cinnamon"
+            ]
+        },
+        {
+            "cocktail name": "Sweet Sangria",
+            "ingredients": [
+                "2 bottles Red wine",
+                "1 cup Sugar",
+                "2 cups hot Water",
+                "1 cup Apple",
+                "wedges Orange",
+                "wedges Lime",
+                "Lemon",
+                "Fresca"
+            ]
+        },
+        {
+            "cocktail name": "Sangria - The World's Best",
+            "ingredients": [
+                "1 1/2 L Red wine",
+                "1 cup Sugar",
+                "1 large Lemon",
+                "1 large Orange",
+                "1 large Apple",
+                "3-4 oz plain Brandy",
+                "Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Spiced Peach Punch",
+            "ingredients": [
+                "46 oz Peach nectar",
+                "20 oz Orange juice",
+                "1/2 cup Brown sugar",
+                "3 3-inch Cinnamon",
+                "1/2 tsp Cloves",
+                "2 tblsp Lime juice"
+            ]
+        },
+        {
+            "cocktail name": "Strawberry Lemonade",
+            "ingredients": [
+                "Juice of 1 Lemon",
+                "1 tblsp Sugar",
+                "8-10 ripe Strawberries",
+                "1 cup Water"
+            ]
+        },
+        {
+            "cocktail name": "Sunny Holiday Punch",
+            "ingredients": [
+                "46 oz chilled Pineapple juice",
+                "28 oz Club soda",
+                "6 oz frozen Orange juice",
+                "1 Lemon",
+                "2 cups Berries",
+                "1 bottle Champagne"
+            ]
+        },
+        {
+            "cocktail name": "Wine Cooler",
+            "ingredients": [
+                "2 oz white or Red wine",
+                "5 oz Lemon-lime soda",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Wine Punch",
+            "ingredients": [
+                "1 bottle Red wine",
+                "2 Lemon",
+                "1 cup Orange juice",
+                "3 Orange",
+                "1 cup Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Bruce's Puce",
+            "ingredients": [
+                "Grenadine",
+                "Kahlua",
+                "Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Brave Bull Shooter",
+            "ingredients": [
+                "1/2 oz Tequila",
+                "1/2 oz Tabasco sauce"
+            ]
+        },
+        {
+            "cocktail name": "Fahrenheit 5000",
+            "ingredients": [
+                "1/2 oz Firewater",
+                "1/2 oz Absolut Peppar",
+                "1 dash Tabasco sauce"
+            ]
+        },
+        {
+            "cocktail name": "Popped cherry",
+            "ingredients": [
+                "2 oz Vodka",
+                "2 oz Cherry liqueur",
+                "4 oz Cranberry juice",
+                "4 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Atomic Lokade",
+            "ingredients": [
+                "5 oz Lemonade",
+                "1 oz Vodka",
+                "1/2 oz Blue Curacao",
+                "1/2 oz Triple sec",
+                "Sugar",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Diesel",
+            "ingredients": [
+                "1/2 pint Lager",
+                "1/2 pint Cider",
+                "1 dash Blackcurrant cordial"
+            ]
+        },
+        {
+            "cocktail name": "Afternoon",
+            "ingredients": [
+                "1 cl Kahlua",
+                "1 cl Baileys irish cream",
+                "1 1/2 Frangelico",
+                "4 cl hot Coffee",
+                "Cream"
+            ]
+        },
+        {
+            "cocktail name": "Kool-Aid Shot",
+            "ingredients": [
+                "1 shot Vodka",
+                "1 shot Amaretto",
+                "1 shot Sloe gin",
+                "1 shot Triple sec",
+                "Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "National Aquarium",
+            "ingredients": [
+                "1/2 oz Rum",
+                "1/2 oz Vodka",
+                "1/2 oz Gin",
+                "1/2 oz Blue Curacao",
+                "2 oz Sour mix",
+                "1 splash Lemon-lime soda"
+            ]
+        },
+        {
+            "cocktail name": "Damned if you do",
+            "ingredients": [
+                "0.75 oz Whiskey",
+                "0.25 oz Hot Damn"
+            ]
+        },
+        {
+            "cocktail name": "Long vodka",
+            "ingredients": [
+                "5 cl Vodka",
+                "1/2 Lime",
+                "4 dashes Angostura bitters",
+                "1 dl Schweppes Tonic water",
+                "4 Ice"
+            ]
+        },
+        {
+            "cocktail name": "Quick F**K",
+            "ingredients": [
+                "1 part Kahlua",
+                "1 part Midori melon liqueur",
+                "1 part Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Owen's Grandmother's Revenge",
+            "ingredients": [
+                "12 oz Whiskey",
+                "12 oz Beer",
+                "12 oz frozen Lemonade",
+                "1 cup crushed Ice"
+            ]
+        },
+        {
+            "cocktail name": "Flaming Dr. Pepper",
+            "ingredients": [
+                "1 oz Amaretto",
+                "1 oz Vodka",
+                "1 oz Bacardi 151 proof rum",
+                "1 oz Dr. Pepper",
+                "1 oz Beer"
+            ]
+        },
+        {
+            "cocktail name": "New York Lemonade",
+            "ingredients": [
+                "2 oz Absolut Citron",
+                "1 oz Grand Marnier",
+                "2 oz sweetened Lemon juice",
+                "1 oz Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Caipirissima",
+            "ingredients": [
+                "2 Lime",
+                "2 tblsp Sugar",
+                "2-3 oz White rum",
+                "crushed Ice"
+            ]
+        },
+        {
+            "cocktail name": "Pisco Sour",
+            "ingredients": [
+                "2 oz Pisco",
+                "1 oz Lemon juice",
+                "1-2 tblsp Sugar",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Big Red",
+            "ingredients": [
+                "1/2 oz Irish cream",
+                "1/2 oz Goldschlager"
+            ]
+        },
+        {
+            "cocktail name": "Black & Tan",
+            "ingredients": [
+                "1 part Bass pale Ale",
+                "1 part Guinness stout"
+            ]
+        },
+        {
+            "cocktail name": "Chocolate Milk",
+            "ingredients": [
+                "1/2 shot Chocolate liqueur",
+                "1/2 shot Milk",
+                "1 dash Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "B-53",
+            "ingredients": [
+                "1/3 shot Kahlua",
+                "1/3 shot Sambuca",
+                "1/3 shot Grand Marnier"
+            ]
+        },
+        {
+            "cocktail name": "Sea breeze",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "4 oz Cranberry juice",
+                "1 oz Grapefruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Snake Bite (UK)",
+            "ingredients": [
+                "1/2 pint Lager",
+                "1/2 pint sweet or dry Cider"
+            ]
+        },
+        {
+            "cocktail name": "Bob Marley",
+            "ingredients": [
+                "1/2 oz Midori melon liqueur",
+                "1/2 oz J\u00e4germeister",
+                "1/2 oz Goldschlager"
+            ]
+        },
+        {
+            "cocktail name": "Brainteaser",
+            "ingredients": [
+                "30 ml white Sambuca",
+                "30 ml Erin Cream",
+                "5 ml Advocaat"
+            ]
+        },
+        {
+            "cocktail name": "Atlantic Sun",
+            "ingredients": [
+                "2 cl Smirnoff Vodka",
+                "2 cl Southern Comfort",
+                "2 cl Passion fruit syrup",
+                "6 cl Sweet and sour",
+                "1 dash Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Green Goblin",
+            "ingredients": [
+                "1/2 pint hard Cider",
+                "1/2 pint Lager",
+                "1 shot Blue Curacao"
+            ]
+        },
+        {
+            "cocktail name": "Oreo Mudslide",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Kahlua",
+                "1 oz Baileys irish cream",
+                "2 scoops Vanilla ice-cream",
+                "1 Oreo cookie"
+            ]
+        },
+        {
+            "cocktail name": "ABC",
+            "ingredients": [
+                "1/3 Amaretto",
+                "1/3 Baileys irish cream",
+                "1/3 Cognac"
+            ]
+        },
+        {
+            "cocktail name": "Pink Panty Pulldowns",
+            "ingredients": [
+                "1 L Sprite",
+                "2 cups Pink lemonade",
+                "2 cups Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Ice Pick #1",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "6 oz Iced tea",
+                "to taste Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "410 Gone",
+            "ingredients": [
+                "2-3 oz Peach Vodka",
+                "Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Tequila Sunrise",
+            "ingredients": [
+                "2 measures Tequila",
+                "Orange juice",
+                "Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Screaming Orgasm",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 1/2 oz Baileys irish cream",
+                "1/2 oz Kahlua"
+            ]
+        },
+        {
+            "cocktail name": "Flander's Flake-Out",
+            "ingredients": [
+                "1/4 glass Sambuca",
+                "3/4 glass Sarsaparilla"
+            ]
+        },
+        {
+            "cocktail name": "Apple Slammer",
+            "ingredients": [
+                "1 part 7-Up",
+                "1 part Apple schnapps"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Sour",
+            "ingredients": [
+                "1 1/2 oz Amaretto",
+                "3 oz Sour mix"
+            ]
+        },
+        {
+            "cocktail name": "Cuba Libra",
+            "ingredients": [
+                "1-2 shot Dark rum",
+                "Squeeze Lime",
+                "Fill with Coca-Cola",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Jelly Bean",
+            "ingredients": [
+                "1 oz Blackberry brandy",
+                "1 oz Anis"
+            ]
+        },
+        {
+            "cocktail name": "After Five",
+            "ingredients": [
+                "Peppermint schnapps",
+                "Kahlua",
+                "Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Midnight Manx",
+            "ingredients": [
+                "1 oz Kahlua",
+                "1 oz Baileys irish cream",
+                "dash Goldschlager",
+                "2 oz Heavy cream",
+                "2 oz Hazlenut Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Kir Royale",
+            "ingredients": [
+                "1 part Creme de Cassis",
+                "5 parts Champagne"
+            ]
+        },
+        {
+            "cocktail name": "Jackhammer",
+            "ingredients": [
+                "1 oz Jack Daniels",
+                "1 oz Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "Nutty Irishman",
+            "ingredients": [
+                "1 part Baileys irish cream",
+                "1 part Frangelico",
+                "1 part Milk"
+            ]
+        },
+        {
+            "cocktail name": "3 Wise Men",
+            "ingredients": [
+                "1/3 oz Jack Daniels",
+                "1/3 oz Johnnie Walker",
+                "1/3 oz Jim Beam"
+            ]
+        },
+        {
+            "cocktail name": "Miami Vice",
+            "ingredients": [
+                "5 oz Bacardi 151 proof rum",
+                "frozen Pina colada mix",
+                "frozen Daiquiri mix"
+            ]
+        },
+        {
+            "cocktail name": "AT&T",
+            "ingredients": [
+                "1 oz Absolut Vodka",
+                "1 oz Gin",
+                "4 oz Tonic water"
+            ]
+        },
+        {
+            "cocktail name": "69 Special",
+            "ingredients": [
+                "2 oz dry Gin",
+                "4 oz 7-Up",
+                "0.75 oz Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Irish Coffee",
+            "ingredients": [
+                "1 1/2 oz Irish whiskey",
+                "8 oz Coffee",
+                "1 tsp Sugar",
+                "1 tblsp Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "'57 Chevy with a White License Plate",
+            "ingredients": [
+                "1 oz white Creme de Cacao",
+                "1 oz Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Mother's Milk",
+            "ingredients": [
+                "1 oz Goldschlager",
+                "1 oz Butterscotch schnapps",
+                "1 oz Milk"
+            ]
+        },
+        {
+            "cocktail name": "Zippy's Revenge",
+            "ingredients": [
+                "2 oz Amaretto",
+                "2 oz Rum",
+                "4 oz Grape Kool-Aid"
+            ]
+        },
+        {
+            "cocktail name": "Belgian Blue",
+            "ingredients": [
+                "2 cl Vodka",
+                "1 cl Coconut liqueur",
+                "1 cl Blue Curacao",
+                "Fill with Sprite"
+            ]
+        },
+        {
+            "cocktail name": "Red Snapper",
+            "ingredients": [
+                "1 shot Crown Royal",
+                "1 shot Amaretto",
+                "1 shot Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Jamaica Kiss",
+            "ingredients": [
+                "1 shot Coffee liqueur",
+                "1 shot Jamaican Light rum",
+                "cubes Ice",
+                "Milk"
+            ]
+        },
+        {
+            "cocktail name": "Absolut Summertime",
+            "ingredients": [
+                "1 1/2 oz Absolut Citron",
+                "3/4 oz Sweet and sour",
+                "1/2 oz Sprite",
+                "3 oz Soda water",
+                "1 slice Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Cosmopolitan Martini",
+            "ingredients": [
+                "1/2 oz Cointreau",
+                "1 oz Vodka",
+                "Juice of 1/2 Lime",
+                "1 splash Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Ziemes Martini Apfelsaft",
+            "ingredients": [
+                "4 cl Vermouth",
+                "16 cl Apple juice"
+            ]
+        },
+        {
+            "cocktail name": "Vodka Martini",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "3/4 oz Dry Vermouth",
+                "1 Olive"
+            ]
+        },
+        {
+            "cocktail name": "Cafe Savoy",
+            "ingredients": [
+                "Coffee",
+                "1/2 oz Milk",
+                "1/2 oz Triple sec",
+                "Brandy"
+            ]
+        },
+        {
+            "cocktail name": "Snowball",
+            "ingredients": [
+                "1 1/2 oz Advocaat",
+                "8-10 oz cold Lemonade",
+                "1 slice Lemon",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Mocha-Berry",
+            "ingredients": [
+                "6 oz Coffee",
+                "2 oz Chambord raspberry liqueur",
+                "2 tblsp Cocoa powder",
+                "Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "747",
+            "ingredients": [
+                "1/3 part Kahlua",
+                "1/3 part Baileys irish cream",
+                "1/3 part Frangelico"
+            ]
+        },
+        {
+            "cocktail name": "Addison Special",
+            "ingredients": [
+                "1 shot Vodka",
+                "1 tblsp Grenadine",
+                "Fill with Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "California Root Beer",
+            "ingredients": [
+                "3/4 oz Kahlua",
+                "3/4 oz Galliano",
+                "Fill with Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Stone Sour",
+            "ingredients": [
+                "1 part Amaretto",
+                "1 part Sour mix",
+                "1 part Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Blind Russian",
+            "ingredients": [
+                "3/4 oz Baileys irish cream",
+                "3/4 oz Godiva liqueur",
+                "3/4 oz Kahlua",
+                "1/2 oz Butterscotch schnapps",
+                "to fill Milk"
+            ]
+        },
+        {
+            "cocktail name": "Absolut Sex",
+            "ingredients": [
+                "3/4 oz Absolut Kurant",
+                "3/4 oz Midori melon liqueur",
+                "1 oz Cranberry juice",
+                "1 splash Sprite"
+            ]
+        },
+        {
+            "cocktail name": "Aztec Punch",
+            "ingredients": [
+                "1 can Lemonade",
+                "5 oz Vodka",
+                "7 oz Rum",
+                "About 1 bottle Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Lemon Drop",
+            "ingredients": [
+                "1 1/2 shot Absolut Vodka",
+                "1 1/2 shot Cointreau",
+                "Juice of 1 wedge Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Absolut limousine",
+            "ingredients": [
+                "2/3 Absolut Citron",
+                "1/3 Lime juice",
+                "Fill with Ice",
+                "Top it up with Tonic water"
+            ]
+        },
+        {
+            "cocktail name": "Absolut Evergreen",
+            "ingredients": [
+                "2/3 part Absolut Citron",
+                "1/3 part Pisang Ambon",
+                "cubes Ice",
+                "Bitter lemon"
+            ]
+        },
+        {
+            "cocktail name": "Lunch Box",
+            "ingredients": [
+                "3/4 bottle Beer",
+                "1 shot Amaretto",
+                "1 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Kool-Aid Slammer",
+            "ingredients": [
+                "1/2 oz Grape Kool-Aid",
+                "1/2 oz Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Kurant Tea",
+            "ingredients": [
+                "4 cl Absolut Kurant",
+                "Turkish apple Tea",
+                "(if needed) Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Dirty Nipple",
+            "ingredients": [
+                "Kahlua",
+                "Sambuca",
+                "Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Darkwood Sling",
+            "ingredients": [
+                "1 part Cherry Heering",
+                "1 part Soda water",
+                "1 part Orange juice",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Bailey's Dream Shake",
+            "ingredients": [
+                "2 oz Baileys irish cream",
+                "2 scoops Vanilla ice-cream",
+                "Cream"
+            ]
+        },
+        {
+            "cocktail name": "Bumble Bee #1",
+            "ingredients": [
+                "1/3 oz Baileys irish cream",
+                "1/3 oz Kahlua",
+                "1/3 oz Sambuca"
+            ]
+        },
+        {
+            "cocktail name": "A.D.M. (After Dinner Mint)",
+            "ingredients": [
+                "1/2 oz White Creme de Menthe",
+                "3/4 oz Southern Comfort",
+                "1/2 oz Vodka",
+                "Fill with Hot chocolate"
+            ]
+        },
+        {
+            "cocktail name": "A Splash of Nash",
+            "ingredients": [
+                "2 oz Cranberry juice",
+                "2 oz Soda water",
+                "0.5 oz Midori melon liqueur",
+                "0.5 oz Creme de Banane"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Sunrise",
+            "ingredients": [
+                "1 cl Amaretto",
+                "4 oz Orange juice",
+                "1/4 cl Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Arizona Stingers",
+            "ingredients": [
+                "2 shots Absolut Vodka",
+                "12 oz lemon Iced tea"
+            ]
+        },
+        {
+            "cocktail name": "Orange Push-up",
+            "ingredients": [
+                "1.5 oz Spiced rum",
+                "0.5 oz Grenadine",
+                "4 oz Orange juice",
+                "1 splash Sour mix"
+            ]
+        },
+        {
+            "cocktail name": "151 Florida Bushwacker",
+            "ingredients": [
+                "1/2 oz Malibu rum",
+                "1/2 oz Light rum",
+                "1/2 oz Bacardi 151 proof rum",
+                "1 oz Dark Creme de Cacao",
+                "1 oz Cointreau",
+                "3 oz Milk",
+                "1 oz Coconut liqueur",
+                "1 cup Vanilla ice-cream"
+            ]
+        },
+        {
+            "cocktail name": "Zizi Coin-coin",
+            "ingredients": [
+                "5 cl Cointreau",
+                "2 cl Lemon juice",
+                "cubes Ice",
+                "or lime Lemon"
+            ]
+        },
+        {
+            "cocktail name": "50/50",
+            "ingredients": [
+                "2 1/2 oz Vanilla vodka",
+                "1 splash Grand Marnier",
+                "Fill with Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Tequila Surprise",
+            "ingredients": [
+                "full glass Tequila",
+                "About 8 drops Tabasco sauce"
+            ]
+        },
+        {
+            "cocktail name": "Cream Soda",
+            "ingredients": [
+                "1 oz Spiced rum",
+                "Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "ACID",
+            "ingredients": [
+                "1 oz Bacardi 151 proof rum",
+                "1 oz Wild Turkey"
+            ]
+        },
+        {
+            "cocktail name": "Arctic Fish",
+            "ingredients": [
+                "1/3 part Vodka",
+                "1/3 part Grape soda",
+                "1/3 part Orange juice",
+                "lots Ice",
+                "1 dash Candy"
+            ]
+        },
+        {
+            "cocktail name": "Grim Reaper",
+            "ingredients": [
+                "1 oz Kahlua",
+                "1 oz Bacardi 151 proof rum",
+                "1 dash Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Freddy Kruger",
+            "ingredients": [
+                "1/2 oz J\u00e4germeister",
+                "1/2 oz Sambuca",
+                "1/2 oz Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Bubble Gum",
+            "ingredients": [
+                "1/4 Vodka",
+                "1/4 Banana liqueur",
+                "1/4 Orange juice",
+                "1/4 Peach schnapps"
+            ]
+        },
+        {
+            "cocktail name": "Kiwi Lemon",
+            "ingredients": [
+                "1 part Kiwi liqueur",
+                "2 parts Bitter lemon",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Hot Creamy Bush",
+            "ingredients": [
+                "1 shot Irish whiskey",
+                "3/4 shot Baileys irish cream",
+                "6 oz hot Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Midnight Mint",
+            "ingredients": [
+                "1 oz Baileys irish cream",
+                "3/4 oz White Creme de Menthe",
+                "3/4 oz double Cream"
+            ]
+        },
+        {
+            "cocktail name": "Talos Coffee",
+            "ingredients": [
+                "3 parts Grand Marnier",
+                "1 part Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Zinger",
+            "ingredients": [
+                "4 shots Peachtree schnapps",
+                "4 shots Surge"
+            ]
+        },
+        {
+            "cocktail name": "Jello shots",
+            "ingredients": [
+                "2 cups Vodka",
+                "3 packages Jello",
+                "3 cups Water"
+            ]
+        },
+        {
+            "cocktail name": "Rum Punch",
+            "ingredients": [
+                "mikey bottle Rum",
+                "large bottle Ginger ale",
+                "355 ml frozen Fruit punch",
+                "355 ml frozen Orange juice",
+                "crushed Ice"
+            ]
+        },
+        {
+            "cocktail name": "Turkeyball",
+            "ingredients": [
+                "1 oz Wild Turkey",
+                "3/4 oz Amaretto",
+                "1 splash Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Absolutely Cranberry Smash",
+            "ingredients": [
+                "2 oz Absolut Vodka",
+                "4 oz Cranberry juice",
+                "2 oz Ginger ale",
+                "Add Ice"
+            ]
+        },
+        {
+            "cocktail name": "Kiss me Quick",
+            "ingredients": [
+                "4 cl Cranberry vodka",
+                "2 cl Apfelkorn",
+                "7 cl Schweppes Russchian",
+                "8 cl Apple juice",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Royal Flush",
+            "ingredients": [
+                "1 1/2 oz Crown Royal",
+                "1 oz Peach schnapps",
+                "1/2 oz Chambord raspberry liqueur",
+                "1 oz Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Limona Corona",
+            "ingredients": [
+                "1 bottle Corona",
+                "1 oz Bacardi Limon"
+            ]
+        },
+        {
+            "cocktail name": "Pysch Vitamin Light",
+            "ingredients": [
+                "1 part Orange juice",
+                "1 part Apple juice",
+                "1 part Pineapple juice",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Apello",
+            "ingredients": [
+                "4 cl Orange juice",
+                "3 cl Grapefruit juice",
+                "1 cl Apple juice",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Texas Rattlesnake",
+            "ingredients": [
+                "1 part Yukon Jack",
+                "1/2 part Cherry brandy",
+                "1 part Southern Comfort",
+                "1 splash Sweet and sour"
+            ]
+        },
+        {
+            "cocktail name": "After sex",
+            "ingredients": [
+                "2 cl Vodka",
+                "1 cl Creme de Banane",
+                "Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "San Francisco",
+            "ingredients": [
+                "2 cl Vodka",
+                "2 cl Creme de Banane",
+                "Grenadine",
+                "Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Shake",
+            "ingredients": [
+                "2 scoops Chocolate ice-cream",
+                "2 oz Brandy",
+                "2 oz Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "A Day at the Beach",
+            "ingredients": [
+                "1 oz Coconut rum",
+                "1/2 oz Amaretto",
+                "4 oz Orange juice",
+                "1/2 oz Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Malibu Twister",
+            "ingredients": [
+                "2 parts Malibu rum",
+                "2 parts Tropicana",
+                "1 part Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Space Odyssey",
+            "ingredients": [
+                "1 shot Bacardi 151 proof rum",
+                "1 shot Malibu rum",
+                "1 shot Pineapple juice",
+                "Orange juice",
+                "Grenadine",
+                "Cherries"
+            ]
+        },
+        {
+            "cocktail name": "Zenmeister",
+            "ingredients": [
+                "1/2 oz J\u00e4germeister",
+                "1/2 oz Root beer"
+            ]
+        },
+        {
+            "cocktail name": "Avalon",
+            "ingredients": [
+                "3 parts Vodka",
+                "1 part Pisang Ambon",
+                "6 parts Apple juice",
+                "1 1/2 part Lemon juice",
+                "Lemonade"
+            ]
+        },
+        {
+            "cocktail name": "252",
+            "ingredients": [
+                "1/2 shot Bacardi 151 proof rum",
+                "1/2 shot Wild Turkey"
+            ]
+        },
+        {
+            "cocktail name": "3-Mile Long Island Iced Tea",
+            "ingredients": [
+                "1/2 oz Gin",
+                "1/2 oz Light rum",
+                "1/2 oz Tequila",
+                "1/2 oz Triple sec",
+                "1/2 oz Vodka",
+                "Coca-Cola",
+                "1-2 dash Sweet and sour",
+                "1 wedge Bitters",
+                "Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Zorro",
+            "ingredients": [
+                "2 cl Sambuca",
+                "2 cl Baileys irish cream",
+                "2 cl White Creme de Menthe"
+            ]
+        },
+        {
+            "cocktail name": "Orange Crush",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Triple sec",
+                "1 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "155 Belmont",
+            "ingredients": [
+                "1 shot Dark rum",
+                "2 shots Light rum",
+                "1 shot Vodka",
+                "1 shot Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "1-900-FUK-MEUP",
+            "ingredients": [
+                "1/2 oz Absolut Kurant",
+                "1/4 oz Grand Marnier",
+                "1/4 oz Chambord raspberry liqueur",
+                "1/4 oz Midori melon liqueur",
+                "1/4 oz Malibu rum",
+                "1/4 oz Amaretto",
+                "1/2 oz Cranberry juice",
+                "1/4 oz Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Vodka Russian",
+            "ingredients": [
+                "2 oz Vodka",
+                "Schweppes Russchian"
+            ]
+        },
+        {
+            "cocktail name": "Danbooka",
+            "ingredients": [
+                "3 parts Coffee",
+                "1 part Everclear"
+            ]
+        },
+        {
+            "cocktail name": "110 in the shade",
+            "ingredients": [
+                "16 oz Lager",
+                "1.5 oz Tequila"
+            ]
+        },
+        {
+            "cocktail name": "Grand Blue",
+            "ingredients": [
+                "1 1/2 cl Malibu rum",
+                "1 1/2 cl Peach schnapps",
+                "1 1/2 cl Blue Curacao",
+                "3 cl Sweet and sour"
+            ]
+        },
+        {
+            "cocktail name": "Baby Eskimo",
+            "ingredients": [
+                "2 oz Kahlua",
+                "8 oz Milk",
+                "2 scoops Vanilla ice-cream"
+            ]
+        },
+        {
+            "cocktail name": "Tennesee Mud",
+            "ingredients": [
+                "8 oz Coffee",
+                "4 oz Jack Daniels",
+                "4 oz Amaretto",
+                "Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "Swedish Coffee",
+            "ingredients": [
+                "1 cup Coffee",
+                "4 cl Aquavit",
+                "By taste Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Adam Sunrise",
+            "ingredients": [
+                "1/2 Vodka",
+                "1/2 can Lemonade",
+                "1/2 Water",
+                "10 tsp Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Absolut Stress #2",
+            "ingredients": [
+                "1 1/2 oz Absolut Vodka",
+                "1/2 oz Peach schnapps",
+                "1/2 oz Coconut liqueur",
+                "1 1/2 oz Cranberry juice",
+                "1 1/2 oz Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Chocolate Monkey",
+            "ingredients": [
+                "1 shot Banana liqueur",
+                "2 shots Creme de Cacao",
+                "2 scoops Chocolate ice-cream",
+                "1 oz Chocolate syrup",
+                "4 oz Chocolate milk",
+                "1 Whipped cream",
+                "1 Cherry",
+                "1 piece Banana"
+            ]
+        },
+        {
+            "cocktail name": "Texas Sling",
+            "ingredients": [
+                "1/2 oz Kahlua",
+                "1/2 oz Irish cream",
+                "1/2 oz Amaretto",
+                "1/2 oz Bacardi 151 proof rum",
+                "1 oz Cream"
+            ]
+        },
+        {
+            "cocktail name": "A midsummernight dream",
+            "ingredients": [
+                "2 oz Vodka",
+                "1 oz Kirschwasser",
+                "1 tsp Strawberry liqueur",
+                "5 Strawberries",
+                "Schweppes Russchian"
+            ]
+        },
+        {
+            "cocktail name": "Zoksel",
+            "ingredients": [
+                "Beer",
+                "Root beer",
+                "Lemonade",
+                "slice Coca-Cola",
+                "7-Up",
+                "Creme de Cassis",
+                "Lemon"
+            ]
+        },
+        {
+            "cocktail name": "Fuzzy Asshole",
+            "ingredients": [
+                "1/2 Coffee",
+                "1/2 Peach schnapps"
+            ]
+        },
+        {
+            "cocktail name": "Quick-sand",
+            "ingredients": [
+                "25 ml Black Sambuca",
+                "Add 250 ml Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Snakebite and Black",
+            "ingredients": [
+                "1/2 pint Lager",
+                "1/2 pint Cider",
+                "A little bit of Blackcurrant squash"
+            ]
+        },
+        {
+            "cocktail name": "Zimadori Zinger",
+            "ingredients": [
+                "1.5 oz Midori melon liqueur",
+                "12 oz Zima"
+            ]
+        },
+        {
+            "cocktail name": "Herbal flame",
+            "ingredients": [
+                "5 shots Hot Damn",
+                "very sweet Tea"
+            ]
+        },
+        {
+            "cocktail name": "Jamaican Coffee",
+            "ingredients": [
+                "1/6 glass Rum",
+                "1/6 glass strong black Coffee",
+                "1/2 glass cold Water",
+                "Whipped cream"
+            ]
+        },
+        {
+            "cocktail name": "Mojito #3",
+            "ingredients": [
+                "1/2 handful Mint",
+                "3 cl Lemon juice",
+                "1/8 L Jamaican Dark rum",
+                "1/8 L Club soda",
+                "8 drops Angostura bitters"
+            ]
+        },
+        {
+            "cocktail name": "Apricot punch",
+            "ingredients": [
+                "1 qt Apricot brandy",
+                "4 fifth Champagne",
+                "1 fifth Vodka",
+                "4 L 7-Up",
+                "1/2 gal Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "B-52",
+            "ingredients": [
+                "1/3 Baileys irish cream",
+                "1/3 Grand Marnier",
+                "1/4 Kahlua"
+            ]
+        },
+        {
+            "cocktail name": "Zambeer",
+            "ingredients": [
+                "1 1/2 oz Sambuca",
+                "Add 10 oz Root beer",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Americano",
+            "ingredients": [
+                "1 oz Campari",
+                "1 oz red Sweet Vermouth",
+                "Twist of Lemon peel",
+                "Twist of Orange peel"
+            ]
+        },
+        {
+            "cocktail name": "Black Forest Shake",
+            "ingredients": [
+                "cubes Ice",
+                "Chocolate syrup",
+                "Cherry brandy",
+                "Vodka",
+                "Milk"
+            ]
+        },
+        {
+            "cocktail name": "GG",
+            "ingredients": [
+                "2 1/2 shots Galliano",
+                "Ginger ale",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Radler",
+            "ingredients": [
+                "12 oz Beer",
+                "12 oz 7-Up"
+            ]
+        },
+        {
+            "cocktail name": "Mudslinger",
+            "ingredients": [
+                "750 ml Southern Comfort",
+                "1 L Orange juice",
+                "750 ml Pepsi Cola"
+            ]
+        },
+        {
+            "cocktail name": "Campari Beer",
+            "ingredients": [
+                "1 bottle Lager",
+                "1 1/2 cl Campari"
+            ]
+        },
+        {
+            "cocktail name": "Almond Chocolate Coffee",
+            "ingredients": [
+                "3/4 oz Amaretto",
+                "1/2 oz Dark Creme de Cacao",
+                "8 oz Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Stone Sour #3",
+            "ingredients": [
+                "2 oz Sour mix",
+                "2 oz Amaretto",
+                "2 oz Tequila",
+                "Add splash Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "9 1/2 Weeks",
+            "ingredients": [
+                "2 oz Absolut Citron",
+                "1/2 oz Orange Curacao",
+                "1 splash Strawberry liqueur",
+                "1 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Absolutly Screwed Up",
+            "ingredients": [
+                "1 shot Absolut Citron",
+                "1 shot Orange juice",
+                "1 shot Triple sec",
+                "Fill to top Ginger ale"
+            ]
+        },
+        {
+            "cocktail name": "Whitecap Margarita",
+            "ingredients": [
+                "1 cup Ice",
+                "2 oz Tequila",
+                "1/4 cup Cream of coconut",
+                "3 tblsp fresh Lime juice"
+            ]
+        },
+        {
+            "cocktail name": "Bellini Martini",
+            "ingredients": [
+                "8 cubes Ice",
+                "3 oz Vodka",
+                "1.5 oz Peach nectar",
+                "1.5 oz Peach schnapps",
+                "1 Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Jitterbug",
+            "ingredients": [
+                "2 jiggers Gin",
+                "1 jigger Vodka",
+                "3 dashes Grenadine",
+                "1 shot Lime juice",
+                "Around rim put 1 pinch Sugar",
+                "3 dashes Sugar syrup",
+                "Fill to top with Soda water"
+            ]
+        },
+        {
+            "cocktail name": "Moranguito",
+            "ingredients": [
+                "2/5 Absinthe",
+                "2/5 Tequila",
+                "1/5 Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Sweet & Sour",
+            "ingredients": [
+                "Amaretto",
+                "Sweet and sour",
+                "Midori melon liqueur",
+                "Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Rum Runner",
+            "ingredients": [
+                "1 1/2 oz Malibu rum",
+                "1 oz Blackberry brandy",
+                "3-4 oz Orange juice",
+                "3-4 oz Pineapple juice",
+                "3-4 oz Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "H.D.",
+            "ingredients": [
+                "4 cl Whisky",
+                "8 cl Baileys irish cream",
+                "Coffee"
+            ]
+        },
+        {
+            "cocktail name": "The Evil Blue Thing",
+            "ingredients": [
+                "1 1/2 oz Creme de Cacao",
+                "1 oz Blue Curacao",
+                "1/2 oz Light rum"
+            ]
+        },
+        {
+            "cocktail name": "Shark Attack",
+            "ingredients": [
+                "1 can Lemonade",
+                "3 cans Water",
+                "1 1/2 cup Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Jack's Vanilla Coke",
+            "ingredients": [
+                "4-5 Ice",
+                "2 oz Tennessee whiskey",
+                "1 tsp Vanilla extract",
+                "10-12 oz Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Apple Grande",
+            "ingredients": [
+                "3 oz Tequila",
+                "12 oz Apple cider"
+            ]
+        },
+        {
+            "cocktail name": "Bleeding Surgeon",
+            "ingredients": [
+                "1 shot Dark rum",
+                "1 slice Orange",
+                "1/2 glass Surge",
+                "1/2 glass Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Applejack",
+            "ingredients": [
+                "1 oz Jack Daniels",
+                "1/2 oz Midori melon liqueur",
+                "2 oz Sour mix"
+            ]
+        },
+        {
+            "cocktail name": "Adam Bomb",
+            "ingredients": [
+                "1 part Rum",
+                "1 part Vodka",
+                "1 part Tequila",
+                "1/2 part Triple sec",
+                "Fruit",
+                "Ice",
+                "1-3 pint Salt",
+                "Fruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Arizona Antifreeze",
+            "ingredients": [
+                "1/3 oz Vodka",
+                "1/3 oz Midori melon liqueur",
+                "1/3 oz Sweet and sour"
+            ]
+        },
+        {
+            "cocktail name": "Black and Brown",
+            "ingredients": [
+                "1/2 Guinness stout",
+                "1/2 Root beer"
+            ]
+        },
+        {
+            "cocktail name": "A Piece of Ass",
+            "ingredients": [
+                "1 shot Amaretto",
+                "1 shot Southern Comfort",
+                "cubes Ice",
+                "Sour mix"
+            ]
+        },
+        {
+            "cocktail name": "Avalanche",
+            "ingredients": [
+                "1 shot Crown Royal",
+                "1 shot Kahlua",
+                "Fill with Cream"
+            ]
+        },
+        {
+            "cocktail name": "Brandon and Will's Coke Float",
+            "ingredients": [
+                "2 scoops Vanilla ice-cream",
+                "1 can Coca-Cola",
+                "2 oz Bourbon"
+            ]
+        },
+        {
+            "cocktail name": "Flaming Lamborghini",
+            "ingredients": [
+                "1 oz Kahlua",
+                "1 oz Sambuca",
+                "1 oz Blue Curacao",
+                "1 oz Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Zipperhead",
+            "ingredients": [
+                "1 shot Chambord raspberry liqueur",
+                "1 shot Vodka",
+                "Fill with Soda water"
+            ]
+        },
+        {
+            "cocktail name": "A Gilligan's Island",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Peach schnapps",
+                "3 oz Orange juice",
+                "3 oz Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Kioki Coffee",
+            "ingredients": [
+                "1 oz Kahlua",
+                "1/2 oz Brandy",
+                "Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Apple Pie with A Crust",
+            "ingredients": [
+                "3 parts Apple juice",
+                "1 part Malibu rum",
+                "3 dashes Cinnamon"
+            ]
+        },
+        {
+            "cocktail name": "Zorbatini",
+            "ingredients": [
+                "1 1/4 oz Stoli Vodka",
+                "1/4 oz Ouzo"
+            ]
+        },
+        {
+            "cocktail name": "Vodka Fizz",
+            "ingredients": [
+                "2 oz Vodka",
+                "2 oz Half-and-half",
+                "2 oz Limeade",
+                "Ice",
+                "Nutmeg"
+            ]
+        },
+        {
+            "cocktail name": "Radioactive Long Island Iced Tea",
+            "ingredients": [
+                "1 oz Rum",
+                "1 oz Vodka",
+                "1 oz Tequila",
+                "1 oz Gin",
+                "1 oz Triple sec",
+                "1 oz Chambord raspberry liqueur",
+                "1 oz Midori melon liqueur",
+                "1 oz Malibu rum"
+            ]
+        },
+        {
+            "cocktail name": "Shot-gun",
+            "ingredients": [
+                "1 part Jim Beam",
+                "1 part Jack Daniels",
+                "1 oz Wild Turkey"
+            ]
+        },
+        {
+            "cocktail name": "Bible Belt",
+            "ingredients": [
+                "2 oz Southern Comfort",
+                "1/2 oz Triple sec",
+                "2 wedges Lime",
+                "2 oz Sour mix"
+            ]
+        },
+        {
+            "cocktail name": "Irish Curdling Cow",
+            "ingredients": [
+                "3/4 oz Baileys irish cream",
+                "3/4 oz Bourbon",
+                "3/4 oz Vodka",
+                "2-3 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Sweet Tooth",
+            "ingredients": [
+                "2 shots Godiva liqueur",
+                "Milk"
+            ]
+        },
+        {
+            "cocktail name": "Downshift",
+            "ingredients": [
+                "2 part Fruit punch",
+                "1 part Sprite",
+                "2 shots Tequila",
+                "Float Bacardi 151 proof rum"
+            ]
+        },
+        {
+            "cocktail name": "Pink Penocha",
+            "ingredients": [
+                "750 ml Everclear",
+                "1750 ml Vodka",
+                "1750 ml Peach schnapps",
+                "1 gal Orange juice",
+                "1 gal Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Orange Whip",
+            "ingredients": [
+                "4 oz Orange juice",
+                "1 oz Rum",
+                "1 oz Vodka",
+                "1 package Cream",
+                "Over Ice"
+            ]
+        },
+        {
+            "cocktail name": "Bruised Heart",
+            "ingredients": [
+                "1/2 oz Vodka",
+                "1/2 oz Chambord raspberry liqueur",
+                "1/2 oz Peachtree schnapps",
+                "1/2 oz Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "Gideon's Green Dinosaur",
+            "ingredients": [
+                "1/2 oz Dark rum",
+                "1/2 oz Vodka",
+                "1/2 oz Triple sec",
+                "1/2 oz Tequila",
+                "1/2 oz Melon liqueur",
+                "Fill with Mountain Dew"
+            ]
+        },
+        {
+            "cocktail name": "A True Amaretto Sour",
+            "ingredients": [
+                "1 jigger Amaretto",
+                "Juice of 1/2 Lemon",
+                "Ice",
+                "Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Kool First Aid",
+            "ingredients": [
+                "2 oz light 151 proof rum",
+                "1/2 tsp Tropical Kool-Aid"
+            ]
+        },
+        {
+            "cocktail name": "Irish Russian",
+            "ingredients": [
+                "1 shot Vodka",
+                "1 shot Kahlua",
+                "1 dash Coca-Cola",
+                "Fill with Guinness stout"
+            ]
+        },
+        {
+            "cocktail name": "Auburn Headbanger",
+            "ingredients": [
+                "1 oz J\u00e4germeister",
+                "1 oz Goldschlager"
+            ]
+        },
+        {
+            "cocktail name": "Zima Blaster",
+            "ingredients": [
+                "12 oz Zima",
+                "3 oz Chambord raspberry liqueur"
+            ]
+        },
+        {
+            "cocktail name": "Buccaneer",
+            "ingredients": [
+                "1 Corona",
+                "1 shot Bacardi Limon"
+            ]
+        },
+        {
+            "cocktail name": "Homemade Kahlua",
+            "ingredients": [
+                "2 1/2 cups Sugar",
+                "1 cup Corn syrup",
+                "1 1/2 oz instant Coffee",
+                "2 oz Vanilla extract",
+                "3 cups boiling Water",
+                "1 fifth Vodka"
+            ]
+        },
+        {
+            "cocktail name": "24k nightmare",
+            "ingredients": [
+                "1/2 oz Goldschlager",
+                "1/2 oz J\u00e4germeister",
+                "1/2 oz Rumple Minze",
+                "1/2 oz Bacardi 151 proof rum"
+            ]
+        },
+        {
+            "cocktail name": "Caribbean Boilermaker",
+            "ingredients": [
+                "1 bottle Corona",
+                "1 shot Light rum"
+            ]
+        },
+        {
+            "cocktail name": "Army special",
+            "ingredients": [
+                "30 ml Vodka",
+                "30 ml Gin",
+                "45 ml Lime juice cordial",
+                "1/2 glass crushed Ice"
+            ]
+        },
+        {
+            "cocktail name": "Arizona Twister",
+            "ingredients": [
+                "1 shot Vodka",
+                "1 shot Malibu rum",
+                "1 shot Gold tequila",
+                "1 splash Orange juice",
+                "1 splash Pineapple juice",
+                "1 splash Cream of coconut",
+                "1 dash Grenadine",
+                "crushed Ice",
+                "1 wedge Pineapple"
+            ]
+        },
+        {
+            "cocktail name": "Baby Guinness",
+            "ingredients": [
+                "2 1/2 oz Kahlua",
+                "1/2 oz Baileys irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Alice in Wonderland",
+            "ingredients": [
+                "1 shot Amaretto",
+                "1 shot Grand Marnier",
+                "1 shot Southern Comfort"
+            ]
+        },
+        {
+            "cocktail name": "501 Blue",
+            "ingredients": [
+                "Blue Curacao",
+                "Blueberry schnapps",
+                "Vodka",
+                "Sour mix",
+                "7-Up"
+            ]
+        },
+        {
+            "cocktail name": "Coke and Drops",
+            "ingredients": [
+                "1 dl Coca-Cola",
+                "7 drops Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Ruby Tuesday",
+            "ingredients": [
+                "2 oz Gin",
+                "5 oz Cranberry juice",
+                "2 splashes Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Arctic Mouthwash",
+            "ingredients": [
+                "5 oz blue Maui",
+                "5 oz Mountain Dew",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Brain Fart",
+            "ingredients": [
+                "1 fifth Everclear",
+                "1 fifth Smirnoff red label Vodka",
+                "2 L Mountain Dew",
+                "2 L Surge",
+                "1 small bottle Lemon juice",
+                "1 pint Rum"
+            ]
+        },
+        {
+            "cocktail name": "Royal Bitch",
+            "ingredients": [
+                "1 part Frangelico",
+                "1 part Crown Royal"
+            ]
+        },
+        {
+            "cocktail name": "Citrus Coke",
+            "ingredients": [
+                "1 part Bacardi Limon",
+                "2 parts Coca-Cola"
+            ]
+        },
+        {
+            "cocktail name": "Smut",
+            "ingredients": [
+                "1/3 part Red wine",
+                "1 shot Peach schnapps",
+                "1/3 part Pepsi Cola",
+                "1/3 part Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Raspberry Cooler",
+            "ingredients": [
+                "2 oz Raspberry vodka",
+                "4 oz Lemon-lime soda",
+                "Ice"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto Sunset",
+            "ingredients": [
+                "1/2 jigger Triple sec",
+                "3 shots Amaretto",
+                "1/2 cup Cider",
+                "Add 1/2 cup Ice"
+            ]
+        },
+        {
+            "cocktail name": "Cherry Electric Lemonade",
+            "ingredients": [
+                "1 oz Gin",
+                "1 oz Tequila",
+                "1 oz Vodka",
+                "1 oz White rum",
+                "1 oz Triple Sec",
+                "1 oz Cherry Grenadine",
+                "1 oz Sweet and sour",
+                "3 oz Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Girl From Ipanema",
+            "ingredients": [
+                "25 ml Cachaca",
+                "15 ml Lemon Juice",
+                "10 ml Agave Syrup",
+                "top up with Champagne"
+            ]
+        },
+        {
+            "cocktail name": "Ipamena",
+            "ingredients": [
+                "\u00bd Lime",
+                "2 tsp Brown sugar",
+                "4 cl Passion fruit juice",
+                "top up with Ginger ale",
+                "fill Ice"
+            ]
+        },
+        {
+            "cocktail name": "Dark Caipirinha",
+            "ingredients": [
+                "2 tsp demerara Sugar",
+                "1 Lime",
+                "2 1/2 oz Cachaca"
+            ]
+        },
+        {
+            "cocktail name": "Jam Donut",
+            "ingredients": [
+                "2/3 oz Baileys irish cream",
+                "1/3 oz Chambord raspberry liqueur",
+                "1 tsp Sugar syrup",
+                "2 pinches Sugar"
+            ]
+        },
+        {
+            "cocktail name": "Aviation",
+            "ingredients": [
+                "4.5 cl Gin",
+                "1.5 cl lemon juice",
+                "1.5 cl maraschino liqueur"
+            ]
+        },
+        {
+            "cocktail name": "Dirty Martini",
+            "ingredients": [
+                "70ml/2fl oz Vodka",
+                "1 tbsp Dry Vermouth",
+                "2 tbsp Olive Brine",
+                "1 wedge Lemon",
+                "1 Olive"
+            ]
+        },
+        {
+            "cocktail name": "Duchamp's Punch",
+            "ingredients": [
+                "5 cl Pisco",
+                "2.5 cl Lime Juice",
+                "2.5 cl Pineapple Syrup",
+                "1.5 cl St. Germain",
+                "2 Dashes Angostura Bitters",
+                "Pinch Pepper",
+                "2 sprigs Lavender"
+            ]
+        },
+        {
+            "cocktail name": "Bacardi Cocktail",
+            "ingredients": [
+                "1 3/4 oz Bacardi Light rum",
+                "1 oz Lime juice",
+                "1/2 tsp Sugar syrup",
+                "1 dash Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Between The Sheets",
+            "ingredients": [
+                "1 oz Brandy",
+                "1 oz Light rum",
+                "1 oz Triple sec",
+                "1 oz Lemon juice"
+            ]
+        },
+        {
+            "cocktail name": "Casino",
+            "ingredients": [
+                "2 oz Gin",
+                "1/4 tsp Maraschino liqueur",
+                "1/4 tsp Lemon juice",
+                "2 dashes Orange bitters",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Clover Club",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "2 tsp Grenadine",
+                "Juice of 1/2 Lemon",
+                "1 Egg white"
+            ]
+        },
+        {
+            "cocktail name": "Derby",
+            "ingredients": [
+                "6 cl gin",
+                "2 dashes Peach Bitters",
+                "2 Fresh leaves Mint"
+            ]
+        },
+        {
+            "cocktail name": "Mary Pickford",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 oz Pineapple juice",
+                "1/2 tsp Maraschino liqueur",
+                "1/2 tsp Grenadine",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "Monkey Gland",
+            "ingredients": [
+                "2 oz Gin",
+                "1 tsp Benedictine",
+                "1/2 oz Orange juice",
+                "1 tsp Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Paradise",
+            "ingredients": [
+                "7 parts Gin",
+                "4 parts Apricot Brandy",
+                "3 parts Orange Juice"
+            ]
+        },
+        {
+            "cocktail name": "Planter's Punch",
+            "ingredients": [
+                "1 part Dark rum",
+                "1/2 part Orgeat syrup",
+                "2 parts Orange juice",
+                "1 part Pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Porto flip",
+            "ingredients": [
+                "3 parts Brandy",
+                "9 parts Port",
+                "2 parts Egg Yolk"
+            ]
+        },
+        {
+            "cocktail name": "Stinger",
+            "ingredients": [
+                "1 1/2 oz Brandy",
+                "1/2 oz White Creme de Menthe"
+            ]
+        },
+        {
+            "cocktail name": "White Lady",
+            "ingredients": [
+                "4cl Gin",
+                "3cl Triple Sec",
+                "2cl Lemon Juice"
+            ]
+        },
+        {
+            "cocktail name": "Bellini",
+            "ingredients": [
+                "6 oz Champagne",
+                "1 oz Peach schnapps"
+            ]
+        },
+        {
+            "cocktail name": "Cosmopolitan",
+            "ingredients": [
+                "1 1/4 oz Absolut Citron",
+                "1/4 oz Lime juice",
+                "1/4 oz Cointreau",
+                "1/4 cup Cranberry juice"
+            ]
+        },
+        {
+            "cocktail name": "French 75",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "2 tsp superfine Sugar",
+                "1 1/2 oz Lemon juice",
+                "4 oz Chilled Champagne",
+                "1 Orange",
+                "1 Maraschino cherry"
+            ]
+        },
+        {
+            "cocktail name": "French Connection",
+            "ingredients": [
+                "1 1/2 oz Cognac",
+                "3/4 oz Amaretto"
+            ]
+        },
+        {
+            "cocktail name": "Golden dream",
+            "ingredients": [
+                "2 parts Galliano",
+                "2 parts Triple Sec",
+                "2 parts orange juice",
+                "1 part Cream"
+            ]
+        },
+        {
+            "cocktail name": "Grasshopper",
+            "ingredients": [
+                "3/4 oz Green Creme de Menthe",
+                "3/4 oz white Creme de Cacao",
+                "3/4 oz Light cream"
+            ]
+        },
+        {
+            "cocktail name": "Hemingway Special",
+            "ingredients": [
+                "12 parts Rum",
+                "8 parts Grapefruit Juice",
+                "3 parts Maraschino Liqueur",
+                "3 parts Lime Juice"
+            ]
+        },
+        {
+            "cocktail name": "Horse's Neck",
+            "ingredients": [
+                "1 long strip Lemon peel",
+                "2 oz Brandy",
+                "5 oz Ginger ale",
+                "2 dashes Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Kir",
+            "ingredients": [
+                "1 part Creme de Cassis",
+                "5 parts Champagne"
+            ]
+        },
+        {
+            "cocktail name": "Long Island Iced Tea",
+            "ingredients": [
+                "1/2 oz Vodka",
+                "1/2 oz Tequila",
+                "1/2 oz Light rum",
+                "1/2 oz Gin",
+                "1 dash Coca-Cola",
+                "Twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "Mimosa",
+            "ingredients": [
+                "Chilled Champagne",
+                "2 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Mint Julep",
+            "ingredients": [
+                "4 fresh Mint",
+                "2 1/2 oz Bourbon",
+                "1 tsp Powdered sugar",
+                "2 tsp Water"
+            ]
+        },
+        {
+            "cocktail name": "Pina Colada",
+            "ingredients": [
+                "3 oz Light rum",
+                "3 tblsp Coconut milk",
+                "3 tblsp Pineapple"
+            ]
+        },
+        {
+            "cocktail name": "Rose",
+            "ingredients": [
+                "1/2 oz Dry Vermouth",
+                "1 oz Gin",
+                "1/2 oz Apricot brandy",
+                "1/2 tsp Lemon juice",
+                "1 tsp Grenadine",
+                "Powdered sugar"
+            ]
+        },
+        {
+            "cocktail name": "Barracuda",
+            "ingredients": [
+                "4.5 cl Rum",
+                "1.5 cl Galliano",
+                "6 cl Pineapple Juice",
+                "1 dash Lime Juice",
+                "top up Prosecco"
+            ]
+        },
+        {
+            "cocktail name": "Bramble",
+            "ingredients": [
+                "4 cl Gin",
+                "1.5 cl lemon juice",
+                "1 cl Sugar syrup",
+                "1.5 cl Creme de Mure"
+            ]
+        },
+        {
+            "cocktail name": "Dark and Stormy",
+            "ingredients": [
+                "5 cl Dark Rum",
+                "10 cl Ginger Beer"
+            ]
+        },
+        {
+            "cocktail name": "Espresso Martini",
+            "ingredients": [
+                "5 cl Vodka",
+                "1 cl Kahlua",
+                "1 dash Sugar syrup"
+            ]
+        },
+        {
+            "cocktail name": "French Martini",
+            "ingredients": [
+                "4.5 cl Vodka",
+                "1.5 cl Raspberry Liqueur",
+                "1.5 cl pineapple juice"
+            ]
+        },
+        {
+            "cocktail name": "Russian Spring Punch",
+            "ingredients": [
+                "2.5 cl Vodka",
+                "1.5 cl Creme de Cassis",
+                "1 cl Sugar Syrup",
+                "2.5 cl Lemon Juice"
+            ]
+        },
+        {
+            "cocktail name": "Spritz",
+            "ingredients": [
+                "6 cl Prosecco",
+                "4 cl Campari",
+                "splash Soda Water"
+            ]
+        },
+        {
+            "cocktail name": "Tommy's Margarita",
+            "ingredients": [
+                "4.5 cl Tequila",
+                "1.5 cl Lime Juice",
+                "2 spoons Agave syrup"
+            ]
+        },
+        {
+            "cocktail name": "Vampiro",
+            "ingredients": [
+                "6 cl Tequila",
+                "3 cl Tomato Juice",
+                "3 cl Orange Juice",
+                "1.5 cl Lime Juice",
+                "1 dash Sugar Syrup",
+                "1 pinch Salt"
+            ]
+        },
+        {
+            "cocktail name": "Vesper",
+            "ingredients": [
+                "6 cl Gin",
+                "1.5 cl Vodka",
+                "0.75 cl Lillet Blanc"
+            ]
+        },
+        {
+            "cocktail name": "Yellow Bird",
+            "ingredients": [
+                "3 cl White Rum",
+                "1.5 cl Galliano",
+                "1.5 cl Triple Sec",
+                "1.5 cl Lime Juice"
+            ]
+        },
+        {
+            "cocktail name": "Butter Baby",
+            "ingredients": [
+                "2 scoops Vanilla Ice-Cream",
+                "1 part Butterscotch schnapps",
+                "full glass Milk",
+                "2 parts Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Boozy Snickers Milkshake",
+            "ingredients": [
+                "3 cups Vanilla Ice-Cream",
+                "1 cup Milk",
+                "1/2 cup Godiva liqueur",
+                "for topping Whipped Cream",
+                "4 tablespoons caramel sauce",
+                "4 tablespoons chocolate sauce",
+                "15 Mini-snickers bars"
+            ]
+        },
+        {
+            "cocktail name": "A1",
+            "ingredients": [
+                "1 3/4 shot Gin",
+                "1 Shot Grand Marnier",
+                "1/4 Shot Lemon Juice",
+                "1/8 Shot Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Abbey Martini",
+            "ingredients": [
+                "2 shots Gin",
+                "1 shot Sweet Vermouth",
+                "1 shot Orange Juice",
+                "3 dashes Angostura Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Absolutely Fabulous",
+            "ingredients": [
+                "1 shot Vodka",
+                "2 shots Cranberry Juice",
+                "Top up with Champagne"
+            ]
+        },
+        {
+            "cocktail name": "Ace",
+            "ingredients": [
+                "2 shots Gin",
+                "1/2 shot Grenadine",
+                "1/2 shot Heavy cream",
+                "1/2 shot Milk",
+                "1/2 Fresh Egg White"
+            ]
+        },
+        {
+            "cocktail name": "Adam & Eve",
+            "ingredients": [
+                "1 shot Gin",
+                "1 shot Cognac",
+                "1 shot Creme de Cassis",
+                "1/8 shot Fresh Lemon Juice"
+            ]
+        },
+        {
+            "cocktail name": "Addington",
+            "ingredients": [
+                "2 shots Sweet Vermouth",
+                "1 shot Dry Vermouth",
+                "Top up with Soda Water"
+            ]
+        },
+        {
+            "cocktail name": "Addison",
+            "ingredients": [
+                "1 1/2 shot Gin",
+                "1 1/2 shot Vermouth"
+            ]
+        },
+        {
+            "cocktail name": "Adios Amigos Cocktail",
+            "ingredients": [
+                "1 shot Rum",
+                "1/2 shot Dry Vermouth",
+                "1/2 shot Cognac",
+                "1/2 shot Gin",
+                "1/4 shot Fresh Lime Juice",
+                "1/4 shot Sugar Syrup",
+                "1/2 shot Water"
+            ]
+        },
+        {
+            "cocktail name": "Gin Rickey",
+            "ingredients": [
+                "2 oz Gin",
+                "1 tsp Grenadine",
+                "Juice of 1/2 lemon",
+                "Top up with Soda Water",
+                "Garnish Lime"
+            ]
+        },
+        {
+            "cocktail name": "Salted Toffee Martini",
+            "ingredients": [
+                "50 ml Gin",
+                "30 ml Chocolate liqueur",
+                "15 ml Amaretto",
+                "Garnish Chocolate Sauce",
+                "Grated Salted Chocolate"
+            ]
+        },
+        {
+            "cocktail name": "Hunter's Moon",
+            "ingredients": [
+                "25 ml Vermouth",
+                "15 ml Maraschino Cherry",
+                "10 ml Sugar Syrup",
+                "100 ml Lemonade",
+                "2 Blackberries"
+            ]
+        },
+        {
+            "cocktail name": "Zombie",
+            "ingredients": [
+                "1 1/2 oz Rum",
+                "1 1/2 oz Gold rum",
+                "1 oz 151 proof rum",
+                "1 tsp Pernod",
+                "1 tsp Grenadine",
+                "1 tsp Lime Juice",
+                "1 drop Angostura Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Bombay Cassis",
+            "ingredients": [
+                "50 ml Gin",
+                "20 ml Creme de Cassis",
+                "15 ml Fresh Lime Juice",
+                "75 ml Ginger beer",
+                "1 Lime",
+                "1 long strip Ginger"
+            ]
+        },
+        {
+            "cocktail name": "Rosemary Blue",
+            "ingredients": [
+                "50 ml Gin",
+                "15 ml Blue Curacao",
+                "100 ml Tonic Water",
+                "Garnish with Rosemary"
+            ]
+        },
+        {
+            "cocktail name": "Empell\u00f3n Cocina's Fat-Washed Mezcal",
+            "ingredients": [
+                "2 oz Mezcal",
+                "3/4 oz Chocolate liqueur",
+                "1/2 oz Coffee liqueur"
+            ]
+        },
+        {
+            "cocktail name": "The Last Word",
+            "ingredients": [
+                "1 oz Green Chartreuse",
+                "1 oz Maraschino Liqueur",
+                "1 oz Lime Juice"
+            ]
+        },
+        {
+            "cocktail name": "French Negroni",
+            "ingredients": [
+                "1 oz Gin",
+                "1 oz Lillet",
+                "1 oz Sweet Vermouth",
+                "1 Orange Peel"
+            ]
+        },
+        {
+            "cocktail name": "Pegu Club",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "3/4 oz Orange Curacao",
+                "3/4 oz Lime Juice",
+                "1 dash Angostura Bitters",
+                "1 dash Orange Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Corpse Reviver #2",
+            "ingredients": [
+                "3/4 oz Gin",
+                "3/4 oz Triple Sec",
+                "3/4 oz Lillet Blanc",
+                "3/4 oz Lemon Juice",
+                "1 dash Absinthe"
+            ]
+        },
+        {
+            "cocktail name": "Boulevardier",
+            "ingredients": [
+                "1 oz Campari",
+                "1 oz Sweet Vermouth",
+                "1 1/4 oz Rye whiskey",
+                "1 Orange Peel"
+            ]
+        },
+        {
+            "cocktail name": "Greyhound",
+            "ingredients": [
+                "1 1/2 oz Vodka",
+                "3 oz Grapefruit Juice"
+            ]
+        },
+        {
+            "cocktail name": "Paloma",
+            "ingredients": [
+                "3 oz Grape Soda",
+                "1 1/2 oz Tequila"
+            ]
+        },
+        {
+            "cocktail name": "Bijou",
+            "ingredients": [
+                "1 dash Orange Bitters",
+                "1 oz Green Chartreuse",
+                "1 oz Gin",
+                "1 oz Sweet Vermouth"
+            ]
+        },
+        {
+            "cocktail name": "Gimlet",
+            "ingredients": [
+                "2 1/2 oz Gin",
+                "1/2 oz Lime Juice",
+                "1/2 oz Sugar Syrup",
+                "1 Lime"
+            ]
+        },
+        {
+            "cocktail name": "Martinez 2",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 1/2 oz Sweet Vermouth",
+                "1 tsp Maraschino Liqueur",
+                "2 dashes Angostura Bitters"
+            ]
+        },
+        {
+            "cocktail name": "Oatmeal Cookie",
+            "ingredients": [
+                "2 parts Kahlua",
+                "2 parts Bailey",
+                "4 parts Butterscotch schnapps",
+                "1 part Jagermeister",
+                "1/2 part Goldschlager"
+            ]
+        },
+        {
+            "cocktail name": "Bahama Mama",
+            "ingredients": [
+                "3 parts Rum",
+                "1 part Dark Rum",
+                "1 part Banana liqueur",
+                "1 part Grenadine",
+                "2 parts Pineapple Juice",
+                "2 parts Orange Juice",
+                "1 part Sweet and Sour"
+            ]
+        },
+        {
+            "cocktail name": "Blue Hurricane",
+            "ingredients": [
+                "4 parts Rum",
+                "2 parts Dark Rum",
+                "1 part Passoa",
+                "1 part Blue Curacao",
+                "6 parts Sweet and Sour",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "The Laverstoke",
+            "ingredients": [
+                "50 ml Gin",
+                "15 ml Elderflower cordial",
+                "15 ml Rosso Vermouth",
+                "75 ml Tonic Water",
+                "2 Wedges Lime",
+                "1 Slice Ginger",
+                "1 Large Sprig Mint"
+            ]
+        },
+        {
+            "cocktail name": "Brigadier",
+            "ingredients": [
+                "4 oz Hot Chocolate",
+                "1 oz Green Chartreuse",
+                "1 oz Cherry Heering"
+            ]
+        },
+        {
+            "cocktail name": "The Jimmy Conway",
+            "ingredients": [
+                "50 ml Irish Whiskey",
+                "50 ml Amaretto",
+                "4 oz Cranberry Juice"
+            ]
+        },
+        {
+            "cocktail name": "Old Pal",
+            "ingredients": [
+                "2 oz Rye whiskey",
+                "1 oz Campari",
+                "1 oz Dry Vermouth"
+            ]
+        },
+        {
+            "cocktail name": "Tipperary",
+            "ingredients": [
+                "2 oz Irish Whiskey",
+                "1 oz Sweet Vermouth",
+                "1/2 oz Green Chartreuse"
+            ]
+        },
+        {
+            "cocktail name": "Penicillin",
+            "ingredients": [
+                "2 oz Blended Scotch",
+                "3/4 oz Lemon Juice",
+                "2 tsp Honey syrup",
+                "2 tsp Ginger Syrup",
+                "1/4 oz Islay single malt Scotch"
+            ]
+        },
+        {
+            "cocktail name": "Corn n Oil",
+            "ingredients": [
+                "1/2 Lime",
+                "1/3 oz Falernum",
+                "2 dashes Angostura Bitters",
+                "1 oz A\u00f1ejo rum",
+                "1 oz blackstrap rum"
+            ]
+        },
+        {
+            "cocktail name": "A Furlong Too Late",
+            "ingredients": [
+                "2 oz Light rum",
+                "4 oz Ginger beer",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "A Night In Old Mandalay",
+            "ingredients": [
+                "1 oz Light rum",
+                "1 oz A\u00f1ejo rum",
+                "1 oz Orange juice",
+                "1/2 oz Lemon juice",
+                "3 oz Ginger ale",
+                "1 twist of Lemon peel"
+            ]
+        },
+        {
+            "cocktail name": "A. J.",
+            "ingredients": [
+                "1 1/2 oz Applejack",
+                "1 oz Grapefruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Abbey Cocktail",
+            "ingredients": [
+                "1 1/2 oz Gin",
+                "1 dash Orange bitters",
+                "Juice of 1/4 Orange",
+                "1 Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Abilene",
+            "ingredients": [
+                "1 1/2 oz Dark rum",
+                "2 oz Peach nectar",
+                "3 oz Orange juice"
+            ]
+        },
+        {
+            "cocktail name": "Acapulco",
+            "ingredients": [
+                "1 1/2 oz Light rum",
+                "1 1/2 tsp Triple sec",
+                "1 tblsp Lime juice",
+                "1 tsp Sugar",
+                "1 Egg white",
+                "1 Mint"
+            ]
+        },
+        {
+            "cocktail name": "Adam",
+            "ingredients": [
+                "2 oz Dark rum",
+                "1 oz Lemon juice",
+                "1 tsp Grenadine"
+            ]
+        },
+        {
+            "cocktail name": "Adonis Cocktail",
+            "ingredients": [
+                "3/4 oz Sweet Vermouth",
+                "1 1/2 oz dry Sherry",
+                "1 dash Orange bitters"
+            ]
+        },
+        {
+            "cocktail name": "Affair",
+            "ingredients": [
+                "2 oz Strawberry schnapps",
+                "2 oz Orange juice",
+                "2 oz Cranberry juice",
+                "Club soda"
+            ]
+        },
+        {
+            "cocktail name": "Affinity",
+            "ingredients": [
+                "1 1/2 oz Scotch",
+                "1 oz Sweet Vermouth",
+                "1 oz Dry Vermouth",
+                "2 dashes Orange bitters"
+            ]
+        },
+        {
+            "cocktail name": "Slippery Nipple",
+            "ingredients": [
+                "1 part Sambuca",
+                "1 part Irish cream"
+            ]
+        },
+        {
+            "cocktail name": "Tequila Slammer",
+            "ingredients": [
+                "1 shot Tequila",
+                "1 part 7-up"
+            ]
+        },
+        {
+            "cocktail name": "Spritz Veneziano",
+            "ingredients": [
+                "6 cl Prosecco",
+                "4 cl Aperol",
+                "Top Soda Water"
+            ]
+        },
+        {
+            "cocktail name": "Espresso Rumtini",
+            "ingredients": [
+                "1 shot Rum",
+                "1/2 shot Vanilla syrup",
+                "1 shot Espresso",
+                "1 shot Coffee"
+            ]
+        },
+        {
+            "cocktail name": "Brooklyn",
+            "ingredients": [
+                "2 oz Rye Whiskey",
+                "1 oz Dry Vermouth",
+                "1/4 oz Maraschino Liqueur",
+                "3 dashes Angostura Bitters",
+                "1 Maraschino Cherry"
+            ]
+        },
+        {
+            "cocktail name": "Broadside",
+            "ingredients": [
+                "1 shot 151 proof rum",
+                "1/2 shot Scotch",
+                "3 drops Bitters",
+                "1 Fresh Wormwood",
+                "cubes Ice"
+            ]
+        },
+        {
+            "cocktail name": "Bloody Punch",
+            "ingredients": [
+                "10 shots Vodka",
+                "3 cups Strawberries",
+                "1/2 cup Lime Juice",
+                "12 oz Lemon-lime soda",
+                "12 oz Lemon-lime soda",
+                "1 cup Raisins",
+                "1 cup Blueberries"
+            ]
+        },
+        {
+            "cocktail name": "Halloween Punch",
+            "ingredients": [
+                "1 bottle Cherry Juice",
+                "3 Orange Peel",
+                "1 Red Chili Flakes",
+                "10 Cloves",
+                "6 Ginger",
+                "20 cl Vodka"
+            ]
+        },
+        {
+            "cocktail name": "Gin Basil Smash",
+            "ingredients": [
+                "6 cl Gin",
+                "2 cl Lemon Juice",
+                "2 cl Sugar Syrup",
+                "Whole Basil"
+            ]
+        },
+        {
+            "cocktail name": "Munich Mule",
+            "ingredients": [
+                "5 cl Gin",
+                "2 cl Lime Juice",
+                "10 cl Ginger Beer",
+                "Chopped Cucumber",
+                "Chopped lemon"
+            ]
+        },
+        {
+            "cocktail name": "Honey Bee",
+            "ingredients": [
+                "6 cl White Rum",
+                "2 cl Honey",
+                "2 cl Lemon Juice"
+            ]
+        },
+        {
+            "cocktail name": "Bee's Knees",
+            "ingredients": [
+                "6 cl Gold rum",
+                "2 cl Orange Juice",
+                "2 cl Lime Juice",
+                "2 jiggers Triple Sec"
+            ]
+        },
+        {
+            "cocktail name": "747 Drink",
+            "ingredients": [
+                "1 oz Vodka",
+                "1 oz Roses sweetened lime juice",
+                "1 oz Cranberry Juice",
+                "Top Sprite"
+            ]
+        },
+        {
+            "cocktail name": "Aquamarine",
+            "ingredients": [
+                "2 oz Hpnotiq",
+                "1 oz Pineapple Juice",
+                "1 oz Banana Liqueur"
+            ]
+        },
+        {
+            "cocktail name": "Banana Cream Pi",
+            "ingredients": [
+                "1 oz Malibu Rum",
+                "1 oz Banana Liqueur",
+                "Top Pineapple Juice"
+            ]
+        },
+        {
+            "cocktail name": "Amaretto fizz",
+            "ingredients": [
+                "4 cl Amaretto",
+                "6 cl Orange Juice",
+                "15 cl White Wine",
+                "Garnish with Orange Peel"
+            ]
+        },
+        {
+            "cocktail name": "Spice 75",
+            "ingredients": [
+                "60 ml Sugar",
+                "1 tblsp Allspice",
+                "20 cl Rum",
+                "90 ml Lime Juice",
+                "6 cl Champagne",
+                "Garnish with Orange spiral"
+            ]
+        },
+        {
+            "cocktail name": "Passion Fruit Martini",
+            "ingredients": [
+                "1 shot Vodka",
+                "1/2 shot Sugar Syrup",
+                "Full Glass Passion fruit juice"
+            ]
+        },
+        {
+            "cocktail name": "Aperol Spritz",
+            "ingredients": [
+                "100 ml Aperol",
+                "150 ml Prosecco",
+                "Top Soda Water"
+            ]
+        }
+    ]
+}
